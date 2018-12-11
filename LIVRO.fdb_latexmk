@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1539978650 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1539978651
-  "LIVRO.xdv" 1539978650 2645772 ec8735bff7c4ac03af8fb7abfd502ddc "xelatex"
+["xdvipdfmx"] 1544546126 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1544546127
+  "LIVRO.xdv" 1544546126 2638640 88ac1e9fb654ee0ba9b2d8c7a891adbe "xelatex"
   (generated)
   "LIVRO.pdf"
-["xelatex"] 1539978648 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1539978651
+["xelatex"] 1544546124 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1544546127
   "/home/editorial/texmf/tex/PUBLICIDADE.tex" 1522961914 10259 0f270d3c8360926558f121be1f0e0e11 ""
   "/home/editorial/texmf/tex/aparatos.sty" 1492700150 909 136995c661119a9437b5451e77fe6935 ""
   "/home/editorial/texmf/tex/frontconselho.tex" 1522961914 226 584f41f462c1f25d6bb931b7ede1fa94 ""
@@ -157,20 +157,20 @@
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1516130245 4066334 455a595bfa61ab60d620b040bfc81aa6 ""
   "CAP_2.tex" 1539976127 25336 295b2c2f972395ddcc99c3444616cd1c ""
   "CAP_3.tex" 1539977827 39154 0504befc1ea2a6d8f5d1db69183db7b7 ""
-  "CAP_5.tex" 1539976127 32078 896e7609b51cc0428b3eb88594ed5e6a ""
+  "CAP_5.tex" 1544546035 32042 1eff1120609eebefaff0e3a40df529de ""
   "CAP_6.tex" 1539978593 47871 11f8532a87939f312e7d39ec51fa3c40 ""
   "Cap_1.tex" 1539977382 30326 a419c999a3d6ec0a2d16e48b4d374489 ""
-  "Cap_4.tex" 1539978251 60254 598ec62b10ea2b5f828faa9db9963d92 ""
+  "Cap_4.tex" 1544546035 59283 07ba07dd4eeb2803bec2b819ad1803db ""
   "Epi.tex" 1539976127 1029 00eb7ff96cfde2a495eeee610bae31a6 ""
-  "INPUTS.aux" 1539978650 5535 5056257887385c25b9c5cb3999ad9b3b ""
+  "INPUTS.aux" 1544546126 5535 df57a354fd32a21333e7dba7854bf9ed ""
   "INPUTS.tex" 1539976127 121 fc60ed9e8cb05b9332b48c29a808316d ""
   "Introducao.tex" 1539977297 4915 b43bff214dc7d46c58bfdd2e7738530c ""
-  "LIVRO.aux" 1539978650 501 fab31c4f137d1c232528065a1e1aaf57 ""
+  "LIVRO.aux" 1544546126 501 fab31c4f137d1c232528065a1e1aaf57 ""
   "LIVRO.tex" 1539976490 1036 11769b70bebf628461ffb498d0e4ef96 ""
-  "LIVRO.toc" 1539978650 1950 5c044a4554810028488ce92a41e0d76b ""
-  "PUBLICIDADE.aux" 1539978650 1740 2a986e1b84899429f852f2b2c80250f2 ""
-  "fichatecnica.sty" 1539978645 2149 36ce2ffe8a47e5c3eddbed0104459cb5 ""
-  "gitrevisioninfo.sty" 1539978648 35 b8e92d32e20d3b3bcf14aaecf57d2279 ""
+  "LIVRO.toc" 1544546126 1950 2860452d266c12c96034f579b747b299 ""
+  "PUBLICIDADE.aux" 1544546126 1740 2a986e1b84899429f852f2b2c80250f2 ""
+  "fichatecnica.sty" 1544546122 2182 752e274e414b5d0145731b7c8c24061a ""
+  "gitrevisioninfo.sty" 1544546124 35 ca9def5f07ee4929dc877d07475f4d6a ""
   "hedraoptions.sty" 1539976127 3612 90c10c03eba9d99333f661bc5b2a212a ""
   "imgs/grafico1.png" 1539976127 43572 f40059b719868220ecf49f94f97eccc8 ""
   "imgs/grafico2.png" 1539976127 32171 404766a1d1527a00de7e87bc42fa3f77 ""
@@ -183,7 +183,7 @@
   (generated)
   "INPUTS.aux"
   "LIVRO.toc"
+  "PUBLICIDADE.aux"
+  "LIVRO.aux"
   "LIVRO.xdv"
   "LIVRO.log"
-  "LIVRO.aux"
-  "PUBLICIDADE.aux"

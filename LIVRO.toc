@@ -17,7 +17,7 @@
 \contentsline {section}{Inteligência Artificial e sua evolução}{73}
 \contentsline {section}{Aprendizado de máquina e modulação do comportamento humano}{79}
 \contentsline {section}{Considerações Finais}{100}
-\contentsline {section}{Referências}{102}
+\contentsline {section}{Referências}{101}
 \contentsline {chapter}{Da biopolítica à modulação: psicologia social e algoritmos como agentes da assimilação neoliberal}{107}
 \contentsline {section}{Referências}{122}
 \contentsline {chapter}{Existe resistência nas sociedades de controle?}{127}

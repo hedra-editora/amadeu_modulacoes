@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  19 OCT 2018 16:50
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  11 DEC 2018 14:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1578,6 +1578,10 @@ Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
 Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
 Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
 Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1608,8 +1612,6 @@ Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
  [2
 
 ]
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
 Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
 Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
 Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
@@ -1837,156 +1839,157 @@ Underfull \hbox (badness 1430) in paragraph at lines 7--15
 File: ./imgs/grafico3.png Graphic file (type bmp)
 <./imgs/grafico3.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 697--697
+Underfull \hbox (badness 10000) in paragraph at lines 682--682
 []\TU/SwiftNeueLTPro(0)/m/n/8 5. []https://research.fb.com/wp-content/uploads/2
 017/12/hpca-2018-
  []
 
-[94] [95] [96] [97] [98] [99] [100] [101]
-Underfull \hbox (badness 5189) in paragraph at lines 901--906
+[94] [95] [96] [97] [98] [99] [100]
+Underfull \hbox (badness 5189) in paragraph at lines 886--891
 []\TU/SwiftNeueLTPro(0)/m/n/10 BIDDLE, Sam. \TU/SwiftNeueLTPro(0)/bx/n/10 Faceb
 ook usa inteligência arti-
  []
 
 
-Underfull \hbox (badness 6316) in paragraph at lines 901--906
+Underfull \hbox (badness 6316) in paragraph at lines 886--891
 \TU/SwiftNeueLTPro(0)/bx/n/10 ficial para prever o comportamento de usuário
  []
 
 
-Underfull \hbox (badness 4505) in paragraph at lines 901--906
+Underfull \hbox (badness 4505) in paragraph at lines 886--891
 \TU/SwiftNeueLTPro(0)/bx/n/10 para anunciantes\TU/SwiftNeueLTPro(0)/m/n/10 . Tr
 adução: Tradução: Bernardo
  []
 
 
-Underfull \hbox (badness 1565) in paragraph at lines 901--906
+Underfull \hbox (badness 1565) in paragraph at lines 886--891
 \TU/SwiftNeueLTPro(0)/m/n/10 Tonasse. 2018. The Intercept_Brasil. Disponível em
 :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 901--906
+Underfull \hbox (badness 10000) in paragraph at lines 886--891
 \TU/SwiftNeueLTPro(0)/m/n/10 <https://theintercept.com/2018/04/13/facebook-inte
 ligencia-
  []
 
 
-Overfull \hbox (0.37834pt too wide) in paragraph at lines 907--912
+Overfull \hbox (0.37834pt too wide) in paragraph at lines 892--897
 \TU/SwiftNeueLTPro(0)/m/n/10 2018. Disponível em: <https://computerworld.com.br
 /2018/0
  []
 
 
-Overfull \hbox (8.25998pt too wide) in paragraph at lines 907--912
+Overfull \hbox (8.25998pt too wide) in paragraph at lines 892--897
 \TU/SwiftNeueLTPro(0)/m/n/10 7/05/facebook-investe-us-30-milhoes-para-aquisicao
 -de-startup-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 913--918
+Underfull \hbox (badness 10000) in paragraph at lines 898--903
 \TU/SwiftNeueLTPro(0)/m/n/10 war-whistleblower-christopher-wylie-faceook-nix-ba
 nnon-
  []
 
-
-Underfull \hbox (badness 1132) in paragraph at lines 919--925
+[101]
+Underfull \hbox (badness 1132) in paragraph at lines 904--910
 []\TU/SwiftNeueLTPro(0)/m/n/10 CADWALLADR, Carole e GRAHAM-HARRISON, Emma.
  []
 
 
-Overfull \hbox (4.50334pt too wide) in paragraph at lines 919--925
+Overfull \hbox (4.50334pt too wide) in paragraph at lines 904--910
 \TU/SwiftNeueLTPro(0)/m/n/10 cambridge-analytica-facebook-influence-us-election
 >. Acesso
  []
 
-[102]
-Underfull \hbox (badness 1675) in paragraph at lines 938--941
+
+Underfull \hbox (badness 1675) in paragraph at lines 923--926
 \TU/SwiftNeueLTPro(0)/m/n/10 e GUERRA, André. \TU/SwiftNeueLTPro(0)/bx/n/10 Psi
 cologia, Comunicação e Pós-
  []
 
 
-Overfull \hbox (1.945pt too wide) in paragraph at lines 942--948
+Overfull \hbox (1.945pt too wide) in paragraph at lines 927--933
 \TU/SwiftNeueLTPro(0)/m/n/10 Disponível em: <https://www.tecmundo.com.br/google
 /4960
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 942--948
+Underfull \hbox (badness 10000) in paragraph at lines 927--933
 \TU/SwiftNeueLTPro(0)/m/n/10 8-google-compra-deepmind-startup-de-programacao-em
 -
  []
 
 
-Overfull \hbox (2.59pt too wide) in paragraph at lines 949--955
+Overfull \hbox (2.59pt too wide) in paragraph at lines 934--940
 \TU/SwiftNeueLTPro(0)/m/n/10 applied-machine-learning-at-facebook-a-datacenter-
 infrastru
  []
 
+[102]
 Unknown feature `protrusion=default' in font `Swift Neue LT Pro Bold Italic'.
 Unknown feature `expansion=default' in font `Swift Neue LT Pro Bold Italic'.
 
-Underfull \hbox (badness 1297) in paragraph at lines 963--970
+Underfull \hbox (badness 1297) in paragraph at lines 948--955
 []\TU/SwiftNeueLTPro(0)/m/n/10 KOSINSKI, Michal, STILLWELLA, David, e GRAEPELB,
 
  []
 
 
-Overfull \hbox (4.52835pt too wide) in paragraph at lines 963--970
+Overfull \hbox (4.52835pt too wide) in paragraph at lines 948--955
 \TU/SwiftNeueLTPro(0)/m/n/10 2013. Disponível em: <http://www.pnas.org/content/
 pnas/110/
  []
 
-[103]
-Underfull \hbox (badness 7344) in paragraph at lines 971--976
+
+Underfull \hbox (badness 7344) in paragraph at lines 956--961
 []\TU/SwiftNeueLTPro(0)/m/n/10 KOSINSKI, Michal, WANG, Yilun, LAKKARAJU, Hi-
  []
 
 
-Underfull \hbox (badness 1642) in paragraph at lines 971--976
+Underfull \hbox (badness 1642) in paragraph at lines 956--961
 \TU/SwiftNeueLTPro(0)/m/n/10 chological Methods, Vol. 21, No. 4, 2016. Disponí-
 
  []
 
 
-Underfull \hbox (badness 5022) in paragraph at lines 971--976
+Underfull \hbox (badness 5022) in paragraph at lines 956--961
 \TU/SwiftNeueLTPro(0)/m/n/10 vel em: <http://www.apa.org/pubs/journals/features
 /met-
  []
 
 
-Overfull \hbox (5.13501pt too wide) in paragraph at lines 983--988
+Overfull \hbox (5.13501pt too wide) in paragraph at lines 968--973
 \TU/SwiftNeueLTPro(0)/m/n/10 vel em: <https://www.nytimes.com/2018/03/17/us/pol
 itics/cam
  []
 
 
-Overfull \hbox (2.375pt too wide) in paragraph at lines 989--995
+Overfull \hbox (2.375pt too wide) in paragraph at lines 974--980
 \TU/SwiftNeueLTPro(0)/m/n/10 Disponível em: <http://www.pnas.org/content/pnas/1
 14/48/12
  []
 
-
-Overfull \hbox (0.395pt too wide) in paragraph at lines 996--1002
+[103]
+Overfull \hbox (0.395pt too wide) in paragraph at lines 981--987
 \TU/SwiftNeueLTPro(0)/m/n/10 em: <https://pdfs.semanticscholar.org/5272/8a99829
 792c327
  []
 
-[104]
-Overfull \hbox (0.20168pt too wide) in paragraph at lines 1011--1017
+
+Overfull \hbox (0.20168pt too wide) in paragraph at lines 996--1002
 \TU/SwiftNeueLTPro(0)/m/n/10 University Press. 1980. Disponível em: <http://cog
 prints.org/
  []
 
 
-Overfull \hbox (1.39502pt too wide) in paragraph at lines 1024--1029
+Overfull \hbox (1.39502pt too wide) in paragraph at lines 1009--1014
 \TU/SwiftNeueLTPro(0)/m/n/10 vel em: <https://www.csee.umbc.edu/courses/471/pap
 ers/turi
  []
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 1038--12
+[104])
+Underfull \hbox (badness 10000) in paragraph at lines 1023--12
 \TU/SwiftNeueLTPro(0)/m/n/10 st.co.uk/uploads/finalreports/2013/DStillwell.pdf>
  Acesso
  []
@@ -2032,10 +2035,7 @@ o(0)/bx/n/10 Deep neural
 
 [123] [124]) (./CAP_6.tex [125] [126
 
-]
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
- [127] [128] [129] [130] [131]
+] [127] [128] [129] [130] [131]
 Underfull \hbox (badness 1859) in paragraph at lines 174--174
 []\TU/SwiftNeueLTPro(0)/m/n/8 3. []Citação original: “la capacidad de constitui
 r redes y de progra-
@@ -2168,10 +2168,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  26463 strings out of 493010
  486209 string characters out of 6140134
- 725421 words of memory out of 5000000
+ 724457 words of memory out of 5000000
  29917 multiletter control sequences out of 15000+600000
  541259 words of font info for 103 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
  49i,12n,85p,10388b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (162 pages, 2645772 bytes).
+Output written on LIVRO.xdv (162 pages, 2638640 bytes).
