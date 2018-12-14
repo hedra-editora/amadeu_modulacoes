@@ -8,23 +8,23 @@
 \contentsline {section}{Conclusão}{28}
 \contentsline {section}{Referências}{29}
 \contentsline {chapter}{A noção de modulação e os sistemas algorítmicos}{31}
-\contentsline {section}{AS plataformas e a modulação do olhar e do afeto}{35}
+\contentsline {section}{As plataformas e a modulação do olhar e do afeto}{35}
 \contentsline {section}{Neoliberalismo e modulação}{42}
 \contentsline {section}{Referências}{44}
 \contentsline {chapter}{Modulação de comportamento como parte do modelo de negócio das plataformas de mídias sociais}{47}
 \contentsline {section}{Referências}{64}
-\contentsline {chapter}{Aprendizado de máquina e modulação do comportamento humano}{71}
-\contentsline {section}{Inteligência Artificial e sua evolução}{73}
-\contentsline {section}{Aprendizado de máquina e modulação do comportamento humano}{79}
-\contentsline {section}{Considerações Finais}{100}
-\contentsline {section}{Referências}{101}
-\contentsline {chapter}{Da biopolítica à modulação: psicologia social e algoritmos como agentes da assimilação neoliberal}{107}
-\contentsline {section}{Referências}{122}
-\contentsline {chapter}{Existe resistência nas sociedades de controle?}{127}
-\contentsline {section}{Introdução}{127}
-\contentsline {section}{Sociedade contemporânea: informacional e de controle}{129}
-\contentsline {section}{Resistência, o pressuposto do poder}{138}
-\contentsline {section}{Resistência na sociedade contemporânea}{142}
-\contentsline {section}{Considerações finais}{151}
-\contentsline {section}{Referências}{152}
+\contentsline {chapter}{Aprendizado de máquina e modulação do comportamento humano}{69}
+\contentsline {section}{Inteligência Artificial e sua evolução}{71}
+\contentsline {section}{Aprendizado de máquina e modulação do comportamento humano}{77}
+\contentsline {section}{Considerações Finais}{98}
+\contentsline {section}{Referências}{99}
+\contentsline {chapter}{Da biopolítica à modulação: psicologia social e algoritmos como agentes da assimilação neoliberal}{103}
+\contentsline {section}{Referências}{118}
+\contentsline {chapter}{Existe resistência nas sociedades de controle?}{123}
+\contentsline {section}{Introdução}{123}
+\contentsline {section}{Sociedade contemporânea: informacional e de controle}{125}
+\contentsline {section}{Resistência, o pressuposto do poder}{134}
+\contentsline {section}{Resistência na sociedade contemporânea}{138}
+\contentsline {section}{Considerações finais}{147}
+\contentsline {section}{Referências}{148}
 \contentsfinish 
