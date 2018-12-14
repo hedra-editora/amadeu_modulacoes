@@ -4,7 +4,7 @@
 \contentsline {chapter}{Modulação deleuzeana, modulação algorítmica e manipulação midiática}{13}
 \contentsline {section}{Sociedade Disciplinar e Sociedade do Controle}{13}
 \contentsline {section}{Agenda Setting e Economia da Atenção}{16}
-\contentsline {section}{Modulação deleuzeana, Modulação Algorítmica e Manipulação}{21}
+\contentsline {section}{Modulação deleuzeana, Modulação Algorítmica e~Manipulação}{21}
 \contentsline {section}{Conclusão}{28}
 \contentsline {section}{Referências}{29}
 \contentsline {chapter}{A noção de modulação e os sistemas algorítmicos}{31}
@@ -13,16 +13,16 @@
 \contentsline {section}{Referências}{44}
 \contentsline {chapter}{Modulação de comportamento como parte do modelo de negócio das plataformas de mídias sociais}{47}
 \contentsline {section}{Referências}{64}
-\contentsline {chapter}{Aprendizado de máquina e modulação do comportamento humano}{69}
+\contentsline {chapter}{Aprendizado de máquina e modulação do~comportamento~humano}{69}
 \contentsline {section}{Inteligência Artificial e sua evolução}{71}
-\contentsline {section}{Aprendizado de máquina e modulação do comportamento humano}{77}
+\contentsline {section}{Aprendizado de máquina e modulação do~comportamento~humano}{77}
 \contentsline {section}{Considerações Finais}{98}
 \contentsline {section}{Referências}{99}
-\contentsline {chapter}{Da biopolítica à modulação: psicologia social e algoritmos como agentes da assimilação neoliberal}{103}
+\contentsline {chapter}{Da biopolítica à modulação:\\ psicologia social e algoritmos como agentes~da~assimilação neoliberal}{103}
 \contentsline {section}{Referências}{118}
 \contentsline {chapter}{Existe resistência nas sociedades de controle?}{123}
 \contentsline {section}{Introdução}{123}
-\contentsline {section}{Sociedade contemporânea: informacional e de controle}{125}
+\contentsline {section}{Sociedade contemporânea: informacional~e~de~controle}{125}
 \contentsline {section}{Resistência, o pressuposto do poder}{134}
 \contentsline {section}{Resistência na sociedade contemporânea}{138}
 \contentsline {section}{Considerações finais}{147}

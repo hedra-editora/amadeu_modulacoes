@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  14 DEC 2018 16:46
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  14 DEC 2018 19:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1631,6 +1631,12 @@ Overfull \hbox (6.78427pt too wide) in paragraph at lines 4--4
 nipulação 
  []
 
+
+Overfull \hbox (25.61407pt too wide) in paragraph at lines 16--16
+[]|\TU/SwiftNeueLTPro(0)/m/n/9 Aprendizado de máquina e modulação do comportame
+nto humano| 
+ []
+
 ) [5]
 \openout2 = `INPUTS.aux'.
 
@@ -1663,14 +1669,16 @@ Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
 Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
 Unknown feature `protrusion=default' in font `Swift Neue LT Pro Bold Italic'.
 Unknown feature `expansion=default' in font `Swift Neue LT Pro Bold Italic'.
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
 Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
 Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
 Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
 Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
- [13] [14] [15] [16] [17]
+ [13] [14]
 Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
 Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
- [18] [19]
+ [15] [16] [17] [18] [19]
 Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
 Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
  [20]
@@ -1684,7 +1692,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Unknown feature `protrusion=default' in font `Swift Neue LT Pro Bold'.
 Unknown feature `expansion=default' in font `Swift Neue LT Pro Bold'.
  [28]
-Underfull \hbox (badness 1248) in paragraph at lines 500--503
+Underfull \hbox (badness 1248) in paragraph at lines 498--501
 []\TU/SwiftNeueLTPro(0)/m/sc/10 gregório\TU/SwiftNeueLTPro(0)/m/n/10 , Rafael. 
 \TU/SwiftNeueLTPro(0)/bx/n/10 Omo, Coca-Cola, Nike e Sam-
  []
@@ -1700,42 +1708,44 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--68
 Statista:
  []
 
-[33] [34] [35] [36] [37] [38]
+[33] [34]
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+ [35] [36] [37] [38]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 242.
- [39] [40] [41] [42] [43] [44])
-Underfull \hbox (badness 1168) in paragraph at lines 459--8
-[]\TU/SwiftNeueLTPro(0)/m/n/10 US20080033826-A1 - Personality-based and mood-ba
-se
+(Font)              <9> on input line 237.
+ [39] [40] [41] [42] [43] [44]
+Underfull \hbox (badness 10000) in paragraph at lines 437--440
+
  []
 
-(./CAP_3.tex [45] [46
+) (./CAP_3.tex [45] [46
 
 ] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56]
 [57] [58] [59]
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
  [60] [61] [62] [63] [64] [65]
-Overfull \hbox (22.35637pt too wide) in paragraph at lines 580--582
+Overfull \hbox (22.35637pt too wide) in paragraph at lines 571--573
 \TU/SwiftNeueLTPro(0)/m/sc/10 claims\TU/SwiftNeueLTPro(0)/m/n/10 ® Patent Servi
 ces, 2018. Disponível em: \TU/SwiftNeueLTPro(0)/m/it/10 https://bit.ly/2UL5JLx\
 TU/SwiftNeueLTPro(0)/m/n/10 .
  []
 
 [66]
-Underfull \hbox (badness 2626) in paragraph at lines 621--624
+Underfull \hbox (badness 2626) in paragraph at lines 612--615
 []\TU/SwiftNeueLTPro(0)/m/sc/10 marinho\TU/SwiftNeueLTPro(0)/m/n/10 , M. H. \TU
 /SwiftNeueLTPro(0)/bx/n/10 O consumidor brasileiro agora
  []
 
 
-Underfull \hbox (badness 2368) in paragraph at lines 621--624
+Underfull \hbox (badness 2368) in paragraph at lines 612--615
 \TU/SwiftNeueLTPro(0)/bx/n/10 é hiper\TU/SwiftNeueLTPro(0)/m/n/10 . Think with 
 Google, 2014. Disponível em:
  []
 
 
-Underfull \hbox (badness 2253) in paragraph at lines 645--648
+Underfull \hbox (badness 2253) in paragraph at lines 636--639
 \TU/SwiftNeueLTPro(0)/bx/n/10 dispositivos dos mercados: aportes da Sociologia
  []
 
@@ -1747,21 +1757,20 @@ SwiftNeueLTPro(0)/m/sc/10 tic\TU/SwiftNeueLTPro(0)/m/n/10 s)
 
 [69
 
-] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83]
-[84] [85] [86] [87] [88] [89] [90] [91]
-File: ./imgs/grafico3.png Graphic file (type bmp)
-<./imgs/grafico3.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 682--682
-[]\TU/SwiftNeueLTPro(0)/m/n/8 5. []https://research.fb.com/wp-content/uploads/2
-017/12/hpca-2018-
+] [70] [71]
+Underfull \hbox (badness 4634) in paragraph at lines 97--105
+\TU/SwiftNeueLTPro(0)/m/n/10 vimento denominado Representação do Conhecimento
  []
 
-[92] [93] [94] [95] [96] [97] [98] [99]
+[72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86]
+[87] [88] [89] [90] [91]
+File: ./imgs/grafico3.png Graphic file (type bmp)
+<./imgs/grafico3.png>
+ [92] [93] [94] [95] [96] [97] [98] [99] [100]
 Unknown feature `protrusion=default' in font `Swift Neue LT Pro Bold Italic'.
 Unknown feature `expansion=default' in font `Swift Neue LT Pro Bold Italic'.
- [100] [101]
-Underfull \hbox (badness 1331) in paragraph at lines 977--979
+ [101]
+Underfull \hbox (badness 1331) in paragraph at lines 975--977
 []\TU/SwiftNeueLTPro(0)/m/sc/10 turing\TU/SwiftNeueLTPro(0)/m/n/10 , A. M. \TU/
 SwiftNeueLTPro(0)/bx/n/10 Computing Machinery and Intelli-
  []
@@ -1773,9 +1782,9 @@ SwiftNeueLTPro(0)/bx/n/10 Computing Machinery and Intelli-
 [122
 
 ] [123] [124] [125] [126] [127]
-Underfull \hbox (badness 1859) in paragraph at lines 174--174
-[]\TU/SwiftNeueLTPro(0)/m/n/8 3. []Citação original: “la capacidad de constitui
-r redes y de progra-
+Underfull \hbox (badness 7981) in paragraph at lines 174--174
+[]\TU/SwiftNeueLTPro(0)/m/n/8 3. []Citação original: “\TU/SwiftNeueLTPro(0)/m/i
+t/8 La capacidad de constituir redes y de progra-
  []
 
 File: ./imgs/grafico4.jpg Graphic file (type bmp)
@@ -1784,8 +1793,6 @@ File: ./imgs/grafico4.jpg Graphic file (type bmp)
 [140] [141] [142] [143]
 File: ./imgs/grafico5.png Graphic file (type bmp)
 <./imgs/grafico5.png>
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
 
 Underfull \hbox (badness 4673) in paragraph at lines 679--682
 []\TU/SwiftNeueLTPro(0)/m/n/10 Dentre os comentários apresentados, muitos deles
@@ -1850,12 +1857,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 26478 strings out of 493010
- 487112 string characters out of 6140134
- 724558 words of memory out of 5000000
+ 26479 strings out of 493010
+ 487266 string characters out of 6140134
+ 725558 words of memory out of 5000000
  29927 multiletter control sequences out of 15000+600000
- 541299 words of font info for 108 fonts, out of 8000000 for 9000
+ 541307 words of font info for 109 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
- 49i,12n,85p,10388b,484s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,12n,85p,10388b,506s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (158 pages, 2613480 bytes).
+Output written on LIVRO.xdv (158 pages, 2616876 bytes).
