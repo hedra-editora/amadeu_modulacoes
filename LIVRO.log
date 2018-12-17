@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  14 DEC 2018 19:08
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  17 DEC 2018 14:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1794,34 +1794,28 @@ File: ./imgs/grafico4.jpg Graphic file (type bmp)
 File: ./imgs/grafico5.png Graphic file (type bmp)
 <./imgs/grafico5.png>
 
-Underfull \hbox (badness 4673) in paragraph at lines 679--682
+Underfull \hbox (badness 4673) in paragraph at lines 676--679
 []\TU/SwiftNeueLTPro(0)/m/n/10 Dentre os comentários apresentados, muitos deles
 
  []
 
 File: ./imgs/grafico6.png Graphic file (type bmp)
 <./imgs/grafico6.png>
-[144] [145] [146]
-Underfull \hbox (badness 1400) in paragraph at lines 724--735
-\TU/SwiftNeueLTPro(0)/m/n/10 como os grandes movimentos sociais e revoluções qu
-e
- []
-
-[147]
-Underfull \hbox (badness 1270) in paragraph at lines 743--751
+[144] [145] [146] [147]
+Underfull \hbox (badness 1270) in paragraph at lines 740--748
 []\TU/SwiftNeueLTPro(0)/m/n/10 As problematizações apresentadas neste trabalho 
 de-
  []
 
 
-Overfull \hbox (18.44832pt too wide) in paragraph at lines 769--771
+Overfull \hbox (18.44832pt too wide) in paragraph at lines 766--768
 \TU/SwiftNeueLTPro(0)/bx/n/10 blica Federativa do Brasil\TU/SwiftNeueLTPro(0)/m
 /n/10 . Disponível em: \TU/SwiftNeueLTPro(0)/m/it/10 https://bit.ly/1bIJ9XW\TU/
 SwiftNeueLTPro(0)/m/n/10 .
  []
 
 [148] [149]
-Underfull \hbox (badness 2293) in paragraph at lines 829--834
+Underfull \hbox (badness 2293) in paragraph at lines 826--831
 []\TU/SwiftNeueLTPro(0)/m/sc/10 mian\TU/SwiftNeueLTPro(0)/m/n/10 , Mariella Bat
 arra; \TU/SwiftNeueLTPro(0)/m/sc/10 zotelli\TU/SwiftNeueLTPro(0)/m/n/10 , Gabri
 el Perrenoud.
@@ -1865,4 +1859,4 @@ Here is how much of TeX's memory you used:
  1372 hyphenation exceptions out of 8191
  49i,12n,85p,10388b,506s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (158 pages, 2616876 bytes).
+Output written on LIVRO.xdv (158 pages, 2617324 bytes).
