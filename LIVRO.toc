@@ -13,12 +13,12 @@
 \contentsline {section}{Referências}{44}
 \contentsline {chapter}{Modulação de comportamento como parte do modelo de negócio das plataformas de mídias sociais}{47}
 \contentsline {section}{Referências}{64}
-\contentsline {chapter}{Aprendizado de máquina e modulação do~comportamento~humano}{69}
+\contentsline {chapter}{Aprendizado de máquina e modulação do comportamento humano}{69}
 \contentsline {section}{Inteligência Artificial e sua evolução}{71}
 \contentsline {section}{Aprendizado de máquina e modulação do~comportamento~humano}{77}
 \contentsline {section}{Considerações Finais}{98}
 \contentsline {section}{Referências}{99}
-\contentsline {chapter}{Da biopolítica à modulação:\\ psicologia social e algoritmos como agentes~da~assimilação neoliberal}{103}
+\contentsline {chapter}{Da biopolítica à modulação: psicologia social e algoritmos como agentes da assimilação neoliberal}{103}
 \contentsline {section}{Referências}{118}
 \contentsline {chapter}{Existe resistência nas sociedades de controle?}{123}
 \contentsline {section}{Introdução}{123}

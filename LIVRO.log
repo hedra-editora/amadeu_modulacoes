@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  17 DEC 2018 15:16
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  17 DEC 2018 16:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1631,12 +1631,6 @@ Overfull \hbox (6.78427pt too wide) in paragraph at lines 4--4
 nipulação 
  []
 
-
-Overfull \hbox (25.61407pt too wide) in paragraph at lines 16--16
-[]|\TU/SwiftNeueLTPro(0)/m/n/9 Aprendizado de máquina e modulação do comportame
-nto humano| 
- []
-
 ) [5]
 \openout2 = `INPUTS.aux'.
 
@@ -1686,10 +1680,10 @@ File: ./imgs/grafico2.png Graphic file (type bmp)
 <./imgs/grafico2.png>
  [21]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 298.
+(Font)              <7> on input line 297.
  [22]
 [23] [24] [25] [26] [27] [28] [29])
-Overfull \hbox (0.95476pt too wide) in paragraph at lines 527--6
+Overfull \hbox (0.95476pt too wide) in paragraph at lines 526--6
 []\TU/SwiftNeueLTPro(0)/m/sc/10 simon\TU/SwiftNeueLTPro(0)/m/n/10 , Herbert A. 
 \TU/SwiftNeueLTPro(0)/m/it/10 Designing Organizations for an Information-
  []
@@ -1708,13 +1702,7 @@ Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
  [35] [36] [37] [38]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 237.
- [39] [40] [41] [42] [43]
-Underfull \hbox (badness 1845) in paragraph at lines 409--412
-[]\TU/SwiftNeueLTPro(0)/m/sc/10 deleuze\TU/SwiftNeueLTPro(0)/m/n/10 , Gilles. \
-TU/SwiftNeueLTPro(0)/m/it/10 Sobre as Sociedades de Controle Post-
- []
-
-[44]
+ [39] [40] [41] [42] [43] [44]
 Underfull \hbox (badness 10000) in paragraph at lines 437--440
 
  []
@@ -1772,7 +1760,7 @@ contagion th-
  []
 
 [66] [67]) (./Cap_4.tex [68]
-Underfull \hbox (badness 1803) in paragraph at lines 7--15
+Underfull \hbox (badness 1803) in paragraph at lines 8--16
 []\TU/SwiftNeueLTPro(0)/m/n/10 As Tecnologias da Informação e Comunicação (\TU/
 SwiftNeueLTPro(0)/m/sc/10 tic\TU/SwiftNeueLTPro(0)/m/n/10 s)
  []
@@ -1780,7 +1768,7 @@ SwiftNeueLTPro(0)/m/sc/10 tic\TU/SwiftNeueLTPro(0)/m/n/10 s)
 [69
 
 ] [70] [71]
-Underfull \hbox (badness 4634) in paragraph at lines 97--105
+Underfull \hbox (badness 4634) in paragraph at lines 98--106
 \TU/SwiftNeueLTPro(0)/m/n/10 vimento denominado Representação do Conhecimento
  []
 
@@ -1789,25 +1777,25 @@ Underfull \hbox (badness 4634) in paragraph at lines 97--105
 File: ./imgs/grafico3.png Graphic file (type bmp)
 <./imgs/grafico3.png>
  [92] [93] [94] [95] [96] [97] [98]
-Underfull \hbox (badness 1917) in paragraph at lines 898--901
+Underfull \hbox (badness 1917) in paragraph at lines 899--902
 \TU/SwiftNeueLTPro(0)/m/it/10 vealed: 50 million Facebook profiles harvested fo
 r Cambridge
  []
 
 
-Underfull \hbox (badness 3118) in paragraph at lines 898--901
+Underfull \hbox (badness 3118) in paragraph at lines 899--902
 \TU/SwiftNeueLTPro(0)/m/it/10 Analytica in major data breach\TU/SwiftNeueLTPro(
 0)/m/n/10 . 2018. Disponível em:
  []
 
 [99]
-Underfull \hbox (badness 2126) in paragraph at lines 914--917
+Underfull \hbox (badness 2126) in paragraph at lines 915--918
 []\TU/SwiftNeueLTPro(0)/m/sc/10 guareschi\TU/SwiftNeueLTPro(0)/m/n/10 , Pedrinh
 o. Ensaio 5, “Psicologia e Pós-
  []
 
 [100] [101])
-Underfull \hbox (badness 1158) in paragraph at lines 983--12
+Underfull \hbox (badness 1158) in paragraph at lines 984--12
 \TU/SwiftNeueLTPro(0)/m/it/10 Computer-based personality judgments are more acc
 urate than
  []
@@ -1816,7 +1804,14 @@ urate than
 
 ] [104] [105] [106] [107] [108] [109] [110] [111]
 [112] [113] [114] [115] [116] [117] [118]
-Underfull \hbox (badness 1158) in paragraph at lines 480--487
+Underfull \hbox (badness 1286) in paragraph at lines 481--488
+[]\TU/SwiftNeueLTPro(0)/m/sc/10 kosinski\TU/SwiftNeueLTPro(0)/m/n/10 , Michal. 
+\TU/SwiftNeueLTPro(0)/m/sc/10 stillwell\TU/SwiftNeueLTPro(0)/m/n/10 , David. \T
+U/SwiftNeueLTPro(0)/m/sc/10 youyou\TU/SwiftNeueLTPro(0)/m/n/10 , Wu.
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 481--488
 \TU/SwiftNeueLTPro(0)/m/it/10 Computer-based personality judgments are more acc
 urate than
  []
@@ -1900,12 +1895,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 26466 strings out of 493010
- 486659 string characters out of 6140134
+ 26462 strings out of 493010
+ 486603 string characters out of 6140134
  725558 words of memory out of 5000000
- 29917 multiletter control sequences out of 15000+600000
+ 29913 multiletter control sequences out of 15000+600000
  541283 words of font info for 106 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
  49i,12n,85p,10388b,506s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (158 pages, 2616772 bytes).
+Output written on LIVRO.xdv (158 pages, 2617884 bytes).
