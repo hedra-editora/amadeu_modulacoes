@@ -11,6 +11,7 @@
 \contentsline {section}{As plataformas e a modulação do olhar e do afeto}{35}
 \contentsline {section}{Neoliberalismo e modulação}{42}
 \contentsline {section}{Referências}{44}
+\contentsline {section}{PATENTES CITADAS}{45}
 \contentsline {chapter}{Modulação de comportamento como parte do modelo de negócio das plataformas de mídias sociais}{47}
 \contentsline {section}{Referências}{64}
 \contentsline {chapter}{Aprendizado de máquina e modulação do comportamento humano}{69}

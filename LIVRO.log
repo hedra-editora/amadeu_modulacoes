@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  17 DEC 2018 16:51
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  17 DEC 2018 17:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1453,46 +1453,46 @@ e .
 (./INPUTS.aux) (./PUBLICIDADE.aux))
 \openout1 = `LIVRO.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 38.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 38.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 56.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 56.
 
 (/usr/share/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 38.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 38.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 56.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 56.
 
 (/usr/share/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 38.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 56.
 
 (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    ... okay on input line 56.
 Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
 Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
-LaTeX Info: Redefining \dots on input line 38.
-LaTeX Info: Redefining \up on input line 38.
-LaTeX Info: Redefining \microtypecontext on input line 38.
+LaTeX Info: Redefining \dots on input line 56.
+LaTeX Info: Redefining \up on input line 56.
+LaTeX Info: Redefining \microtypecontext on input line 56.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -1509,67 +1509,67 @@ Package microtype Info: Loading generic protrusion settings for font family
 .................................................
 \symlegacymaths=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 38.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 38.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 38.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 38.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 38.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 38.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 38.
-LaTeX Font Info:    Redeclaring math accent \check on input line 38.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 38.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 38.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 38.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 38.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 38.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 38.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 38.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 38.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 38.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 38.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 38.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 38.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 38.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 38.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 38.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 38.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 38.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 56.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 56.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 56.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 56.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 56.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 56.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 56.
+LaTeX Font Info:    Redeclaring math accent \check on input line 56.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 56.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 56.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 56.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 56.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 38.
+(Font)              `operators' in the math version `normal' on input line 56.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/SwiftNeueLTPro(0)/m/n on input line 
-38.
+56.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 38.
+(Font)              `operators' in the math version `bold' on input line 56.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/SwiftNeueLTPro(0)/m/n on input line
- 38.
+ 56.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/SwiftNeueLTPro(0)/m/n --> TU/SwiftNeueLTPro(0)/m/n o
-n input line 38.
+n input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/SwiftNeueLTPro(0)/m/it on input lin
-e 38.
+e 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/SwiftNeueLTPro(0)/bx/n on input lin
-e 38.
+e 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 38.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 38.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 56.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/SwiftNeueLTPro(0)/m/n --> TU/SwiftNeueLTPro(0)/bx/n 
-on input line 38.
+on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/SwiftNeueLTPro(0)/bx/it on input l
-ine 38.
+ine 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 38.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 38.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 56.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 38.
+(lastpage)             ! on input line 56.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: rotating package is loaded.
 Package caption Info: xtab package is loaded.
@@ -1596,9 +1596,9 @@ Unknown feature `expansion=default' in font `Swift Neue LT Pro Bold'.
 Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
 Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 38.
+(Font)              <6> on input line 56.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 38.
+(Font)              <5> on input line 56.
 
 (/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
@@ -1616,7 +1616,7 @@ Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
 Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
 Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
 Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 38.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 56.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -1682,13 +1682,7 @@ File: ./imgs/grafico2.png Graphic file (type bmp)
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 297.
  [22]
-[23] [24] [25] [26] [27] [28] [29])
-Overfull \hbox (0.95476pt too wide) in paragraph at lines 526--6
-[]\TU/SwiftNeueLTPro(0)/m/sc/10 simon\TU/SwiftNeueLTPro(0)/m/n/10 , Herbert A. 
-\TU/SwiftNeueLTPro(0)/m/it/10 Designing Organizations for an Information-
- []
-
-(./CAP_2.tex [30] [31
+[23] [24] [25] [26] [27] [28] [29]) (./CAP_2.tex [30] [31
 
 ] [32]
 Underfull \hbox (badness 10000) in paragraph at lines 68--68
@@ -1703,63 +1697,54 @@ Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 237.
  [39] [40] [41] [42] [43] [44]
-Underfull \hbox (badness 10000) in paragraph at lines 437--440
+Underfull \hbox (badness 10000) in paragraph at lines 438--441
 
  []
 
-) (./CAP_3.tex [45] [46
 
-] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56]
+Underfull \hbox (badness 1097) in paragraph at lines 446--447
+[]\TU/SwiftNeueLTPro(0)/m/n/10 US9928462B2 – Apparatus and method for determini
+ng
+ []
+
+[45]) (./CAP_3.tex [46] [47
+
+] [48] [49] [50] [51] [52] [53] [54] [55] [56]
 [57] [58] [59]
 Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
 Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
  [60] [61] [62] [63]
-Underfull \hbox (badness 1960) in paragraph at lines 527--530
-[]\TU/SwiftNeueLTPro(0)/m/sc/10 calo\TU/SwiftNeueLTPro(0)/m/n/10 , Ryan, \TU/Sw
-iftNeueLTPro(0)/m/it/10 Digital Market Manipulation\TU/SwiftNeueLTPro(0)/m/n/10
- . 82 George
+Underfull \hbox (badness 1163) in paragraph at lines 506--508
+[]\TU/SwiftNeueLTPro(0)/m/sc/10 agarwal\TU/SwiftNeueLTPro(0)/m/n/10 , N. \TU/Sw
+iftNeueLTPro(0)/m/it/10 Quantifying Social Influence\TU/SwiftNeueLTPro(0)/m/n/1
+0 . Disponível em:
  []
 
-[64]
-Underfull \hbox (badness 2088) in paragraph at lines 564--567
-[]\TU/SwiftNeueLTPro(0)/m/sc/10 hilbert\TU/SwiftNeueLTPro(0)/m/n/10 , M. \TU/Sw
-iftNeueLTPro(0)/m/it/10 Quantifying the Data Deluge and the Data
+[64] [65]
+Underfull \hbox (badness 4467) in paragraph at lines 579--581
+[]\TU/SwiftNeueLTPro(0)/m/sc/10 jeong\TU/SwiftNeueLTPro(0)/m/n/10 , S. \TU/Swif
+tNeueLTPro(0)/m/it/10 Zuckerberg struggles to name a single Facebook
  []
 
-[65]
-Underfull \hbox (badness 1400) in paragraph at lines 578--580
+
+Underfull \hbox (badness 1400) in paragraph at lines 579--581
 \TU/SwiftNeueLTPro(0)/m/it/10 competitor\TU/SwiftNeueLTPro(0)/m/n/10 . The Verg
 e, 10 abr. 2018. Disponível em:
  []
 
-
-Underfull \hbox (badness 2165) in paragraph at lines 581--583
-[]\TU/SwiftNeueLTPro(0)/m/sc/10 joler\TU/SwiftNeueLTPro(0)/m/n/10 , V.; \TU/Swi
-ftNeueLTPro(0)/m/sc/10 petrovski\TU/SwiftNeueLTPro(0)/m/n/10 , A. \TU/SwiftNeue
-LTPro(0)/m/it/10 Immaterial Labour and Data
+[66]
+Underfull \hbox (badness 2221) in paragraph at lines 608--611
+[]\TU/SwiftNeueLTPro(0)/m/sc/10 mahdawi\TU/SwiftNeueLTPro(0)/m/n/10 , A. \TU/Sw
+iftNeueLTPro(0)/m/it/10 Uber developing technology that would tell if
  []
 
-
-Underfull \hbox (badness 1117) in paragraph at lines 581--583
-\TU/SwiftNeueLTPro(0)/m/it/10 Harvesting\TU/SwiftNeueLTPro(0)/m/n/10 . \TU/Swif
-tNeueLTPro(0)/m/sc/10 share lab\TU/SwiftNeueLTPro(0)/m/n/10 , 21 ago. 2016. Dis
-ponível em:
+[67]
+Underfull \hbox (badness 1655) in paragraph at lines 661--664
+[]\TU/SwiftNeueLTPro(0)/m/sc/10 zuboff\TU/SwiftNeueLTPro(0)/m/n/10 , Shoshana. 
+\TU/SwiftNeueLTPro(0)/m/it/10 Big other: surveillance capitalism and
  []
 
-
-Underfull \hbox (badness 1931) in paragraph at lines 592--594
-[]\TU/SwiftNeueLTPro(0)/m/sc/10 kramer\TU/SwiftNeueLTPro(0)/m/n/10 , Adam; \TU/
-SwiftNeueLTPro(0)/m/sc/10 guillory\TU/SwiftNeueLTPro(0)/m/n/10 , Jamie; \TU/Swi
-ftNeueLTPro(0)/m/sc/10 hancock\TU/SwiftNeueLTPro(0)/m/n/10 , Jeffrey.
- []
-
-
-Underfull \hbox (badness 1540) in paragraph at lines 592--594
-\TU/SwiftNeueLTPro(0)/m/it/10 Experimental evidence of massive-scale emotional 
-contagion th-
- []
-
-[66] [67]) (./Cap_4.tex [68]
+) (./Cap_4.tex [68]
 Underfull \hbox (badness 1803) in paragraph at lines 8--16
 []\TU/SwiftNeueLTPro(0)/m/n/10 As Tecnologias da Informação e Comunicação (\TU/
 SwiftNeueLTPro(0)/m/sc/10 tic\TU/SwiftNeueLTPro(0)/m/n/10 s)
@@ -1776,47 +1761,49 @@ Underfull \hbox (badness 4634) in paragraph at lines 98--106
 [87] [88] [89] [90] [91]
 File: ./imgs/grafico3.png Graphic file (type bmp)
 <./imgs/grafico3.png>
- [92] [93] [94] [95] [96] [97] [98]
-Underfull \hbox (badness 1917) in paragraph at lines 899--902
-\TU/SwiftNeueLTPro(0)/m/it/10 vealed: 50 million Facebook profiles harvested fo
-r Cambridge
+ [92] [93] [94] [95] [96] [97] [98] [99]
+Underfull \hbox (badness 1194) in paragraph at lines 920--922
+\TU/SwiftNeueLTPro(0)/m/it/10 gramação em inteligência artificial\TU/SwiftNeueL
+TPro(0)/m/n/10 . 2014. Disponível em:
+ []
+
+[100]
+Underfull \hbox (badness 1406) in paragraph at lines 946--948
+\TU/SwiftNeueLTPro(0)/m/it/10 ted the Facebook Data of Millions. \TU/SwiftNeueL
+TPro(0)/m/n/10 2018. Disponível em:
  []
 
 
-Underfull \hbox (badness 3118) in paragraph at lines 899--902
-\TU/SwiftNeueLTPro(0)/m/it/10 Analytica in major data breach\TU/SwiftNeueLTPro(
-0)/m/n/10 . 2018. Disponível em:
+Underfull \hbox (badness 2012) in paragraph at lines 954--958
+\TU/SwiftNeueLTPro(0)/m/n/10 matical Biophysics, Volume 5. 1943. Disponível em:
+
  []
 
-[99]
-Underfull \hbox (badness 2126) in paragraph at lines 915--918
-[]\TU/SwiftNeueLTPro(0)/m/sc/10 guareschi\TU/SwiftNeueLTPro(0)/m/n/10 , Pedrinh
-o. Ensaio 5, “Psicologia e Pós-
+[101]
+Underfull \hbox (badness 3623) in paragraph at lines 985--989
+[]\TU/SwiftNeueLTPro(0)/m/sc/10 youyou\TU/SwiftNeueLTPro(0)/m/n/10 , Wu, \TU/Sw
+iftNeueLTPro(0)/m/sc/10 kosinskib\TU/SwiftNeueLTPro(0)/m/n/10 , Michal e \TU/Sw
+iftNeueLTPro(0)/m/sc/10 stillwella\TU/SwiftNeueLTPro(0)/m/n/10 , David.
  []
 
-[100] [101])
-Underfull \hbox (badness 1158) in paragraph at lines 984--12
+
+Underfull \hbox (badness 1158) in paragraph at lines 985--989
 \TU/SwiftNeueLTPro(0)/m/it/10 Computer-based personality judgments are more acc
 urate than
  []
 
-(./CAP_5.tex [102] [103
+) (./CAP_5.tex [102] [103
 
 ] [104] [105] [106] [107] [108] [109] [110] [111]
-[112] [113] [114] [115] [116] [117] [118]
-Underfull \hbox (badness 1286) in paragraph at lines 481--488
-[]\TU/SwiftNeueLTPro(0)/m/sc/10 kosinski\TU/SwiftNeueLTPro(0)/m/n/10 , Michal. 
-\TU/SwiftNeueLTPro(0)/m/sc/10 stillwell\TU/SwiftNeueLTPro(0)/m/n/10 , David. \T
-U/SwiftNeueLTPro(0)/m/sc/10 youyou\TU/SwiftNeueLTPro(0)/m/n/10 , Wu.
+[112] [113] [114] [115] [116] [117]
+Underfull \hbox (badness 1939) in paragraph at lines 448--451
+[]\TU/SwiftNeueLTPro(0)/m/sc/10 cormen\TU/SwiftNeueLTPro(0)/m/n/10 , T. H., \TU
+/SwiftNeueLTPro(0)/m/sc/10 leiserson\TU/SwiftNeueLTPro(0)/m/n/10 , C. E., \TU/S
+wiftNeueLTPro(0)/m/sc/10 rivest\TU/SwiftNeueLTPro(0)/m/n/10 , R. L., \TU/SwiftN
+eueLTPro(0)/m/sc/10 stein\TU/SwiftNeueLTPro(0)/m/n/10 ,
  []
 
-
-Underfull \hbox (badness 1158) in paragraph at lines 481--488
-\TU/SwiftNeueLTPro(0)/m/it/10 Computer-based personality judgments are more acc
-urate than
- []
-
-[119] [120]) (./CAP_6.tex [121] [122
+[118] [119] [120]) (./CAP_6.tex [121] [122
 
 ] [123] [124] [125] [126] [127]
 Underfull \hbox (badness 7981) in paragraph at lines 174--174
@@ -1845,27 +1832,14 @@ de-
  []
 
 [148] [149]
-Overfull \hbox (5.29837pt too wide) in paragraph at lines 802--804
-\TU/SwiftNeueLTPro(0)/m/it/10 Universidade Federal do \TU/SwiftNeueLTPro(0)/m/i
-tsc/10 abc\TU/SwiftNeueLTPro(0)/m/n/10 . Disponível em: \TU/SwiftNeueLTPro(0)/m
-/it/10 https://bit.ly/29SElUP\TU/SwiftNeueLTPro(0)/m/n/10 .
- []
-
-
-Underfull \hbox (badness 1635) in paragraph at lines 829--831
+Overfull \hbox (33.45305pt too wide) in paragraph at lines 830--832
 []\TU/SwiftNeueLTPro(0)/m/sc/10 pais, el\TU/SwiftNeueLTPro(0)/m/n/10 . \TU/Swif
 tNeueLTPro(0)/m/it/10 Caso Cambridge Analytica. \TU/SwiftNeueLTPro(0)/m/n/10 Di
-sponível em:
+sponível em: \TU/SwiftNeueLTPro(0)/m/it/10 https://bit.ly/2PiNjSF\TU/SwiftNeueL
+TPro(0)/m/n/10 .
  []
 
-[150]
-Overfull \hbox (5.65506pt too wide) in paragraph at lines 841--843
-\TU/SwiftNeueLTPro(0)/m/it/10 vada por Temer é capenga. \TU/SwiftNeueLTPro(0)/m
-/n/10 Disponível em: \TU/SwiftNeueLTPro(0)/m/it/10 https://bit.ly/2QVCCWU\TU/Sw
-iftNeueLTPro(0)/m/n/10 .
- []
-
-)) [151] 
+[150])) [151] 
 AED: lastpage setting LastPage
 \openout2 = `PUBLICIDADE.aux'.
 
@@ -1895,12 +1869,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 26462 strings out of 493010
- 486603 string characters out of 6140134
+ 26464 strings out of 493010
+ 486620 string characters out of 6140134
  725558 words of memory out of 5000000
- 29913 multiletter control sequences out of 15000+600000
+ 29915 multiletter control sequences out of 15000+600000
  541283 words of font info for 106 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
  49i,12n,85p,10388b,506s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (158 pages, 2617884 bytes).
+Output written on LIVRO.xdv (158 pages, 2617716 bytes).
