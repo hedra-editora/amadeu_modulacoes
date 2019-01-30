@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  18 JAN 2019 15:56
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  30 JAN 2019 12:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **LIVRO.tex
 (./LIVRO.tex
 LaTeX2e <2017-04-15>
-Babel <3.15> and hyphenation patterns for 84 language(s) loaded.
+Babel <3.12> and hyphenation patterns for 84 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docu
 ment class
@@ -492,19 +492,19 @@ Package: footnote 1997/01/28 1.13 Save footnotes around boxes
 \epigraphminimallength=\skip190
 )
 (/usr/share/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2017/11/03 3.15 The Babel package
+Package: babel 2017/06/29 3.12 The Babel package
 
 (/usr/share/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2017/11/03 3.15 Babel switching mechanism
+File: switch.def 2017/06/29 3.12 Babel switching mechanism
 )
 (/usr/share/texmf-dist/tex/generic/babel-greek/greek.ldf
 Language: greek 2016/09/07 v1.9g Greek support for the babel system
 
 (/usr/share/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2017/11/03 3.15 Babel common definitions
+File: babel.def 2017/06/29 3.12 Babel common definitions
 
 (/usr/share/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2017/11/03 3.15 Babel switching mechanism
+File: switch.def 2017/06/29 3.12 Babel switching mechanism
 )
 \babel@savecnt=\count148
 \U@D=\dimen171
@@ -545,14 +545,17 @@ Language: ngerman 2016/11/02 v2.9 German support for babel (new orthography)
 Language: ngermanb 2016/11/02 v2.9 German support for babel (new orthography)
 Package babel Info: Making " an active character on input line 125.
 ))
+(/usr/share/texmf-dist/tex/generic/babel-french/frenchb.ldf
+Language: frenchb 2017/07/08 v3.3b French support from the babel system
+
 (/usr/share/texmf-dist/tex/generic/babel-french/french.ldf
-Language: french 2017/10/19 v3.3d French support from the babel system
+Language: french 2017/07/08 v3.3b French support from the babel system
 \FB@nonchar=\count156
 \FBcolonsp=\toks25
 \FBthinsp=\toks26
 Package french.ldf Info: No need for active punctuation characters
 (french.ldf)             with this version of XeTeX!
-(french.ldf)             reported on input line 234.
+(french.ldf)             reported on input line 233.
 \FB@punctthick=\XeTeXcharclass1
 \FB@punctthin=\XeTeXcharclass2
 \FB@punctnul=\XeTeXcharclass3
@@ -563,24 +566,31 @@ Package french.ldf Info: No need for active punctuation characters
 \FBguill@level=\count157
 \FB@everypar=\toks28
 \FB@Mht=\dimen172
-LaTeX Info: Redefining \degres on input line 681.
+LaTeX Info: Redefining \degres on input line 680.
 \mc@charclass=\count158
 \mc@charfam=\count159
 \mc@charslot=\count160
 \std@mcc=\count161
 \dec@mcc=\count162
-\c@FBcaption@count=\count163
 \listindentFB=\skip191
 \descindentFB=\skip192
 \labelwidthFB=\skip193
 \leftmarginFB=\skip194
 \parindentFFN=\dimen173
 \FBfnindent=\skip256
-)
+))
 (/usr/share/texmf-dist/tex/generic/babel-russian/russianb.ldf
-Language: russian 2017/08/12 1.3j Russian support for the Babel system
-Package babel Info: Default for \cyrdash is provided on input line 157.
-)
+Language: russianb 2017/01/12 1.3i Russian support for the Babel system
+
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `EU1' encoding will be loaded  on input line 69.
+
+
+(/usr/share/texmf-dist/tex/latex/euenc/eu1enc.def
+File: eu1enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
+))
 (/usr/share/texmf-dist/tex/generic/babel-portuges/portuges.ldf
 Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
 \l@brazilian = a dialect from \language\l@portuges 
@@ -589,11 +599,11 @@ Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
 (/usr/share/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2017/07/07 v2.7 Micro-typographical refinements (RS)
 \MT@toks=\toks29
-\MT@count=\count164
+\MT@count=\count163
 LaTeX Info: Redefining \textls on input line 789.
 \MT@outer@kern=\dimen174
 LaTeX Info: Redefining \textmicrotypecontext on input line 1334.
-\MT@listname@count=\count165
+\MT@listname@count=\count164
 
 (/usr/share/texmf-dist/tex/latex/microtype/microtype-xetex.def
 File: microtype-xetex.def 2017/07/07 v2.7 Definitions specific to xetex (RS)
@@ -605,24 +615,23 @@ Package microtype Info: Loading configuration file microtype.cfg.
 File: microtype.cfg 2017/07/07 v2.7 microtype main configuration file (RS)
 ))
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
-(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 (/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2017/11/14 L3 programming layer (loader) 
+Package: expl3 2017/07/19 L3 programming layer (loader) 
 
 (/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2017/11/14 L3 programming layer (code)
-\c_max_int=\count166
-\l_tmpa_int=\count167
-\l_tmpb_int=\count168
-\g_tmpa_int=\count169
-\g_tmpb_int=\count170
-\g__intarray_font_int=\count171
-\g__prg_map_int=\count172
-\c_log_iow=\count173
-\l_iow_line_count_int=\count174
-\l__iow_line_target_int=\count175
-\l__iow_one_indent_int=\count176
-\l__iow_indent_int=\count177
+Package: expl3 2017/07/19 L3 programming layer (code)
+\c_max_int=\count165
+\l_tmpa_int=\count166
+\l_tmpb_int=\count167
+\g_tmpa_int=\count168
+\g_tmpb_int=\count169
+\g__intarray_font_int=\count170
+\g__prg_map_int=\count171
+\c_log_iow=\count172
+\l_iow_line_count_int=\count173
+\l__iow_line_target_int=\count174
+\l__iow_one_indent_int=\count175
+\l__iow_indent_int=\count176
 \c_zero_dim=\dimen175
 \c_max_dim=\dimen176
 \l_tmpa_dim=\dimen177
@@ -641,72 +650,72 @@ Package: expl3 2017/11/14 L3 programming layer (code)
 \l_tmpb_muskip=\muskip13
 \g_tmpa_muskip=\muskip14
 \g_tmpb_muskip=\muskip15
-\l_keys_choice_int=\count178
-\c__fp_leading_shift_int=\count179
-\c__fp_middle_shift_int=\count180
-\c__fp_trailing_shift_int=\count181
-\c__fp_big_leading_shift_int=\count182
-\c__fp_big_middle_shift_int=\count183
-\c__fp_big_trailing_shift_int=\count184
-\c__fp_Bigg_leading_shift_int=\count185
-\c__fp_Bigg_middle_shift_int=\count186
-\c__fp_Bigg_trailing_shift_int=\count187
-\l__sort_length_int=\count188
-\l__sort_min_int=\count189
-\l__sort_top_int=\count190
-\l__sort_max_int=\count191
-\l__sort_true_max_int=\count192
-\l__sort_block_int=\count193
-\l__sort_begin_int=\count194
-\l__sort_end_int=\count266
-\l__sort_A_int=\count267
-\l__sort_B_int=\count268
-\l__sort_C_int=\count269
-\l__tl_build_start_index_int=\count270
-\l__tl_build_index_int=\count271
-\l__tl_analysis_normal_int=\count272
-\l__tl_analysis_index_int=\count273
-\l__tl_analysis_nesting_int=\count274
-\l__tl_analysis_type_int=\count275
-\l__regex_internal_a_int=\count276
-\l__regex_internal_b_int=\count277
-\l__regex_internal_c_int=\count278
-\l__regex_balance_int=\count279
-\l__regex_group_level_int=\count280
-\l__regex_mode_int=\count281
-\c__regex_cs_in_class_mode_int=\count282
-\c__regex_cs_mode_int=\count283
-\l__regex_catcodes_int=\count284
-\l__regex_default_catcodes_int=\count285
-\c__regex_catcode_L_int=\count286
-\c__regex_catcode_O_int=\count287
-\c__regex_catcode_A_int=\count288
-\c__regex_all_catcodes_int=\count289
-\l__regex_show_lines_int=\count290
-\l__regex_min_state_int=\count291
-\l__regex_max_state_int=\count292
-\l__regex_left_state_int=\count293
-\l__regex_right_state_int=\count294
-\l__regex_capturing_group_int=\count295
-\l__regex_min_pos_int=\count296
-\l__regex_max_pos_int=\count297
-\l__regex_curr_pos_int=\count298
-\l__regex_start_pos_int=\count299
-\l__regex_success_pos_int=\count300
-\l__regex_curr_char_int=\count301
-\l__regex_curr_catcode_int=\count302
-\l__regex_last_char_int=\count303
-\l__regex_case_changed_char_int=\count304
-\l__regex_curr_state_int=\count305
-\l__regex_step_int=\count306
-\l__regex_min_active_int=\count307
-\l__regex_max_active_int=\count308
-\l__regex_replacement_csnames_int=\count309
-\l__regex_match_count_int=\count310
-\l__regex_min_submatch_int=\count311
-\l__regex_submatch_int=\count312
-\l__regex_zeroth_submatch_int=\count313
-\g__debug_trace_regex_int=\count314
+\l_keys_choice_int=\count177
+\c__fp_leading_shift_int=\count178
+\c__fp_middle_shift_int=\count179
+\c__fp_trailing_shift_int=\count180
+\c__fp_big_leading_shift_int=\count181
+\c__fp_big_middle_shift_int=\count182
+\c__fp_big_trailing_shift_int=\count183
+\c__fp_Bigg_leading_shift_int=\count184
+\c__fp_Bigg_middle_shift_int=\count185
+\c__fp_Bigg_trailing_shift_int=\count186
+\l__sort_length_int=\count187
+\l__sort_min_int=\count188
+\l__sort_top_int=\count189
+\l__sort_max_int=\count190
+\l__sort_true_max_int=\count191
+\l__sort_block_int=\count192
+\l__sort_begin_int=\count193
+\l__sort_end_int=\count194
+\l__sort_A_int=\count266
+\l__sort_B_int=\count267
+\l__sort_C_int=\count268
+\l__tl_build_start_index_int=\count269
+\l__tl_build_index_int=\count270
+\l__tl_analysis_normal_int=\count271
+\l__tl_analysis_index_int=\count272
+\l__tl_analysis_nesting_int=\count273
+\l__tl_analysis_type_int=\count274
+\l__regex_internal_a_int=\count275
+\l__regex_internal_b_int=\count276
+\l__regex_internal_c_int=\count277
+\l__regex_balance_int=\count278
+\l__regex_group_level_int=\count279
+\l__regex_mode_int=\count280
+\c__regex_cs_in_class_mode_int=\count281
+\c__regex_cs_mode_int=\count282
+\l__regex_catcodes_int=\count283
+\l__regex_default_catcodes_int=\count284
+\c__regex_catcode_L_int=\count285
+\c__regex_catcode_O_int=\count286
+\c__regex_catcode_A_int=\count287
+\c__regex_all_catcodes_int=\count288
+\l__regex_show_lines_int=\count289
+\l__regex_min_state_int=\count290
+\l__regex_max_state_int=\count291
+\l__regex_left_state_int=\count292
+\l__regex_right_state_int=\count293
+\l__regex_capturing_group_int=\count294
+\l__regex_min_pos_int=\count295
+\l__regex_max_pos_int=\count296
+\l__regex_curr_pos_int=\count297
+\l__regex_start_pos_int=\count298
+\l__regex_success_pos_int=\count299
+\l__regex_curr_char_int=\count300
+\l__regex_curr_catcode_int=\count301
+\l__regex_last_char_int=\count302
+\l__regex_case_changed_char_int=\count303
+\l__regex_curr_state_int=\count304
+\l__regex_step_int=\count305
+\l__regex_min_active_int=\count306
+\l__regex_max_active_int=\count307
+\l__regex_replacement_csnames_int=\count308
+\l__regex_match_count_int=\count309
+\l__regex_min_submatch_int=\count310
+\l__regex_submatch_int=\count311
+\l__regex_zeroth_submatch_int=\count312
+\g__debug_trace_regex_int=\count313
 \c_empty_box=\box35
 \l_tmpa_box=\box36
 \l_tmpb_box=\box37
@@ -750,29 +759,30 @@ Package: expl3 2017/11/14 L3 programming layer (code)
 )
 (/usr/share/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
 File: l3xdvidpfmx.def 2017/03/18 v L3 Experimental driver: xdvipdfmx
-\g__driver_image_int=\count315
+\g__driver_image_int=\count314
 \l__driver_tmp_box=\box50
 ))
-Package: xparse 2017/11/14 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count316
-\g__xparse_grabber_int=\count317
-\l__xparse_m_args_int=\count318
-\l__xparse_mandatory_args_int=\count319
-\l__xparse_v_nesting_int=\count320
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2017/07/19 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count315
+\g__xparse_grabber_int=\count316
+\l__xparse_m_args_int=\count317
+\l__xparse_mandatory_args_int=\count318
+\l__xparse_v_nesting_int=\count319
 )
-Package: fontspec 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTeX
+Package: fontspec 2017/07/23 v2.6c Font selection for XeLaTeX and LuaLaTeX
 
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTe
+Package: fontspec-xetex 2017/07/23 v2.6c Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count321
-\l__fontspec_language_int=\count322
-\l__fontspec_strnum_int=\count323
-\l__fontspec_tmp_int=\count324
-\l__fontspec_em_int=\count325
-\l__fontspec_emdef_int=\count326
-\l__fontspec_strong_int=\count327
-\l__fontspec_strongdef_int=\count328
+\l__fontspec_script_int=\count320
+\l__fontspec_language_int=\count321
+\l__fontspec_strnum_int=\count322
+\l__fontspec_tmp_int=\count323
+\l__fontspec_em_int=\count324
+\l__fontspec_emdef_int=\count325
+\l__fontspec_strong_int=\count326
+\l__fontspec_strongdef_int=\count327
 \l__fontspec_tmpa_dim=\dimen267
 \l__fontspec_tmpb_dim=\dimen268
 \l__fontspec_tmpc_dim=\dimen269
@@ -784,202 +794,180 @@ Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 (/usr/share/texmf-dist/tex/latex/base/tuenc.def
 File: tuenc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
-)
-LaTeX Font Info:    Try loading font information for TU+cmr on input line 105.
-LaTeX Font Info:    No file TUcmr.fd. on input line 105.
+))
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fontspec with sig. 'O{}mO{}' on line 474.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmainfont with sig. 'O{}mO{}' on line 485.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setsansfont with sig. 'O{}mO{}' on line 505.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmonofont with sig. 'O{}mO{}' on line 525.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setromanfont with sig. 'O{}mO{}' on line 545.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathrm with sig. 'O{}mO{}' on line 549.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 557.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathsf with sig. 'O{}mO{}' on line 565.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathtt with sig. 'O{}mO{}' on line 573.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 588.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontface with sig. 'mO{}mO{}' on line 605.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \defaultfontfeatures with sig. 't+om' on line 616.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeatures with sig. 'm' on line 647.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfeature with sig. 'mm' on line 674.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newAATfeature with sig. 'mmmm' on line 688.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newopentypefeature with sig. 'mmm' on line 702.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newICUfeature with sig. 'mmm' on line 722.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeature with sig. 'mm' on line 726.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 747.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontscript with sig. 'mm' on line 780.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontlanguage with sig. 'mm' on line 784.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 788.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 799.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingCommand with sig. 'mO{}m' on line 3462.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingAccent with sig. 'mm' on line 3468.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingSymbol with sig. 'mm' on line 3474.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingComposite with sig. 'mmm' on line 3480.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3486.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3511.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareSymbol with sig. 'm' on line 3517.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareComposite with sig. 'mm' on line 3525.
+.................................................
 
-
-LaTeX Font Warning: Font shape `TU/cmr/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 105.
-
-)
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \fontspec with sig. 'O{}mO{}' on line 542.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmainfont with sig. 'O{}mO{}' on line 546.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setsansfont with sig. 'O{}mO{}' on line 550.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmonofont with sig. 'O{}mO{}' on line 554.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmathrm with sig. 'O{}mO{}' on line 558.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 562.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmathsf with sig. 'O{}mO{}' on line 566.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmathtt with sig. 'O{}mO{}' on line 570.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setromanfont with sig. 'O{}mO{}' on line 574.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 578.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontface with sig. 'mO{}mO{}' on line 582.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \defaultfontfeatures with sig. 't+om' on line 586.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \addfontfeatures with sig. 'm' on line 590.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \addfontfeature with sig. 'm' on line 594.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontfeature with sig. 'mm' on line 598.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newAATfeature with sig. 'mmmm' on line 602.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newopentypefeature with sig. 'mmm' on line 606.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newICUfeature with sig. 'mmm' on line 610.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \aliasfontfeature with sig. 'mm' on line 614.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 618.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontscript with sig. 'mm' on line 622.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontlanguage with sig. 'mm' on line 626.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \DeclareFontsExtensions with sig. 'm' on line 630.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 634.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingCommand with sig. 'mO{}m' on line 3632.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingAccent with sig. 'mm' on line 3638.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingSymbol with sig. 'mm' on line 3644.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingComposite with sig. 'mmm' on line 3650.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3656.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3681.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \UndeclareSymbol with sig. 'm' on line 3687.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \UndeclareAccent with sig. 'm' on line 3693.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \UndeclareCommand with sig. 'm' on line 3699.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \UndeclareComposite with sig. 'mm' on line 3706.
-.................................................
- (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)
-LaTeX Info: Redefining \itshape on input line 3891.
-LaTeX Info: Redefining \slshape on input line 3896.
-LaTeX Info: Redefining \scshape on input line 3901.
-LaTeX Info: Redefining \upshape on input line 3906.
-LaTeX Info: Redefining \em on input line 3936.
-LaTeX Info: Redefining \emph on input line 3961.
-LaTeX Info: Redefining \- on input line 4015.
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 3710.
+LaTeX Info: Redefining \slshape on input line 3715.
+LaTeX Info: Redefining \scshape on input line 3720.
+LaTeX Info: Redefining \upshape on input line 3725.
+LaTeX Info: Redefining \em on input line 3755.
+LaTeX Info: Redefining \emph on input line 3780.
+LaTeX Info: Redefining \- on input line 3831.
 .................................................
 . LaTeX info: "xparse/redefine-command"
 . 
-. Redefining command \oldstylenums with sig. 'm' on line 4110.
+. Redefining command \oldstylenums with sig. 'm' on line 3926.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \liningnums with sig. 'm' on line 4114.
+. Defining command \liningnums with sig. 'm' on line 3930.
 .................................................
 ))
 (/usr/share/texmf-dist/tex/xelatex/xunicode/xunicode.sty
@@ -988,24 +976,12 @@ other characters in Unicode lower plane
 
 (/usr/share/texmf-dist/tex/latex/tipa/t3enc.def
 File: t3enc.def 2001/12/31 T3 encoding
-
-
-LaTeX Font Warning: Font shape `TU/cmr/m/sl' undefined
-(Font)              using `TU/cmr/m/n' instead on input line 316.
-
-
-LaTeX Font Warning: Font shape `TU/cmr/m/it' undefined
-(Font)              using `TU/cmr/m/n' instead on input line 316.
-
-
-LaTeX Font Warning: Font shape `TU/cmr/bx/n' undefined
-(Font)              using `TU/cmr/m/n' instead on input line 356.
-
 )
-\tipaTiiicode=\count329
+\tipaTiiicode=\count328
 \tipasavetokens=\toks30
 \tipachecktokens=\toks31
- (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
@@ -1025,7 +1001,7 @@ File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 \Gin@req@height=\dimen270
 \Gin@req@width=\dimen271
 ))
-\g__fontspec_family_LinuxLibertineO_int=\count330
+\g__fontspec_family_LinuxLibertineO_int=\count329
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1062,7 +1038,7 @@ File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 LaTeX Info: Redefining \rmfamily on input line 6.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
-\g__fontspec_family_WenQuanYiMicroHei_int=\count331
+\g__fontspec_family_WenQuanYiMicroHei_int=\count330
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1090,43 +1066,6 @@ Unknown feature `expansion=default' in font `Linux Libertine O'.
 . Hei/OT:script=latn;language=DFLT;protrusion=default, expansion=default;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
-\g__fontspec_family_SwiftNeueLTPro_int=\count332
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'SwiftNeueLTPro(0)' created for font 'Swift Neue LT Pro' with
-. options [Microtype,Ligatures=TeX,Ligatures=TeX].
-.  
-.  This font family consists of the following NFSS series/shapes:
-.  
-. - 'normal' (m/n) with NFSS spec.: <->"Swift Neue LT
-. Pro/OT:script=latn;language=DFLT;protrusion=default,
-. expansion=default;mapping=tex-text;"
-. - 'small caps'  (m/sc) with NFSS spec.: <->"Swift Neue LT
-. Pro/OT:script=latn;language=DFLT;protrusion=default,
-. expansion=default;+smcp;mapping=tex-text;"
-. - 'bold' (bx/n) with NFSS spec.: <->"Swift Neue LT
-. Pro/B/OT:script=latn;language=DFLT;protrusion=default,
-. expansion=default;mapping=tex-text;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.: <->"Swift Neue LT
-. Pro/B/OT:script=latn;language=DFLT;protrusion=default,
-. expansion=default;+smcp;mapping=tex-text;"
-. - 'italic' (m/it) with NFSS spec.: <->"Swift Neue LT
-. Pro/I/OT:script=latn;language=DFLT;protrusion=default,
-. expansion=default;mapping=tex-text;"
-. - 'italic small caps'  (m/itsc) with NFSS spec.: <->"Swift Neue LT
-. Pro/I/OT:script=latn;language=DFLT;protrusion=default,
-. expansion=default;+smcp;mapping=tex-text;"
-. - 'bold italic' (bx/it) with NFSS spec.: <->"Swift Neue LT
-. Pro/BI/OT:script=latn;language=DFLT;protrusion=default,
-. expansion=default;mapping=tex-text;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: <->"Swift Neue LT
-. Pro/BI/OT:script=latn;language=DFLT;protrusion=default,
-. expansion=default;+smcp;mapping=tex-text;"
-.................................................
-LaTeX Info: Redefining \rmfamily on input line 6.
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
  (./toc.sty
 (/usr/share/texmf-dist/tex/latex/titlesec/titletoc.sty
 Package: titletoc 2011/12/15 v1.6 TOC entries
@@ -1249,14 +1188,14 @@ Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 (/usr/share/texmf-dist/tex/latex/shorttoc/shorttoc.sty
 Package: shorttoc 2002/08/20 v1.3 Short table of contents (JPFD)
 )
-\c@@sectionNumCenter=\count333
+\c@@sectionNumCenter=\count331
 )
 (/home/editorial/texmf/tex/penalidades.sty)
 (/home/editorial/texmf/tex/graficos.sty
 (/usr/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen273
 \WF@size=\dimen274
-\c@WF@wrappedlines=\count334
+\c@WF@wrappedlines=\count332
 \WF@box=\box51
 \WF@everypar=\toks32
 Package: wrapfig 2003/01/31  v 3.6
@@ -1282,7 +1221,7 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \caption@parindent=\dimen280
 \caption@hangindent=\dimen281
 )
-\c@ContinuedFloat=\count335
+\c@ContinuedFloat=\count333
 Package caption Info: wrapfig package is loaded.
 )
 (/usr/share/texmf-dist/tex/latex/textpos/textpos.sty
@@ -1348,18 +1287,18 @@ Package color Info: Driver file: xetex.def on input line 147.
 (/home/editorial/texmf/tex/tabelas.sty
 (/usr/share/texmf-dist/tex/latex/xtab/xtab.sty
 Package: xtab 2011/07/31 v2.3f Extended supertabular package
-\c@tracingst=\count336
+\c@tracingst=\count334
 \PWSTcapht=\dimen288
 \ST@wd=\dimen289
 \ST@rightskip=\skip265
 \ST@leftskip=\skip266
 \ST@parfillskip=\skip267
-\c@PWSTtable=\count337
-\PWSTlastpage=\count338
-\PWSTpenultimate=\count339
-\PWSTcurpage=\count340
-\PWSTtempc=\count341
-\PWSTlines=\count342
+\c@PWSTtable=\count335
+\PWSTlastpage=\count336
+\PWSTpenultimate=\count337
+\PWSTcurpage=\count338
+\PWSTtempc=\count339
+\PWSTlines=\count340
 \PWST@lastht=\dimen290
 \PWST@generalht=\dimen291
 \PWST@ht=\dimen292
@@ -1381,7 +1320,7 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@outerparindent=\dimen303
 \enit@toks=\toks34
 \enit@inbox=\box54
-\enitdp@description=\count343
+\enitdp@description=\count341
 )
 (/usr/share/texmf-dist/tex/latex/ctable/ctable.sty
 Package: ctable 2015/10/17 v1.31 ctable package for flexible typesetting of tab
@@ -1412,12 +1351,12 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 \XKV@toks=\toks35
 \XKV@tempa@toks=\toks36
 )
-\XKV@depth=\count344
+\XKV@depth=\count342
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/usr/share/texmf-dist/tex/latex/graphics/rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
-\c@r@tfl@t=\count345
+\c@r@tfl@t=\count343
 \rotFPtop=\skip269
 \rotFPbot=\skip270
 \rot@float@box=\box55
@@ -1473,6 +1412,13 @@ LaTeX Font Info:    Try loading font information for LGR+cmr on input line 56.
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
 LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 56.
+LaTeX Font Info:    Try loading font information for EU1+lmr on input line 56.
+
+(/usr/share/texmf-dist/tex/latex/euenc/eu1lmr.fd
+File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    ... okay on input line 56.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 56.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 56.
 
@@ -1487,8 +1433,8 @@ LaTeX Font Info:    Try loading font information for TS1+cmr on input line 56.
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 56.
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
 LaTeX Info: Redefining \dots on input line 56.
 LaTeX Info: Redefining \up on input line 56.
 LaTeX Info: Redefining \microtypecontext on input line 56.
@@ -1498,7 +1444,7 @@ Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
 Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `SwiftNeueLTPro' (encoding: TU).
+(microtype)             `LinuxLibertineO' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 .................................................
@@ -1536,32 +1482,32 @@ LaTeX Font Info:    Redeclaring symbol font `operators' on input line 56.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `normal' on input line 56.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/SwiftNeueLTPro(0)/m/n on input line 
-56.
+(Font)                  OT1/cmr/m/n --> TU/LinuxLibertineO(0)/m/n on input line
+ 56.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `bold' on input line 56.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/SwiftNeueLTPro(0)/m/n on input line
- 56.
+(Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/m/n on input lin
+e 56.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/SwiftNeueLTPro(0)/m/n --> TU/SwiftNeueLTPro(0)/m/n o
-n input line 56.
+(Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/m/n
+ on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/SwiftNeueLTPro(0)/m/it on input lin
-e 56.
+(Font)                  OT1/cmr/m/it --> TU/LinuxLibertineO(0)/m/it on input li
+ne 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/SwiftNeueLTPro(0)/bx/n on input lin
-e 56.
+(Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/bx/n on input li
+ne 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 56.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/SwiftNeueLTPro(0)/m/n --> TU/SwiftNeueLTPro(0)/bx/n 
-on input line 56.
+(Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/bx/
+n on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/SwiftNeueLTPro(0)/bx/it on input l
-ine 56.
+(Font)                  OT1/cmr/bx/it --> TU/LinuxLibertineO(0)/bx/it on input 
+line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
@@ -1573,14 +1519,14 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: rotating package is loaded.
 Package caption Info: xtab package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
+Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1588,12 +1534,12 @@ Package microtype Info: Loading generic protrusion settings for font family
  [1
 
 ]
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Bold'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Bold'.
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+Unknown feature `protrusion=default' in font `Linux Libertine O Semibold'.
+Unknown feature `expansion=default' in font `Linux Libertine O Semibold'.
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 56.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1604,17 +1550,17 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 (/home/editorial/texmf/tex/frontconselho.tex)
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
+Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
  [2
 
 ]
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
+Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 56.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
@@ -1625,9 +1571,9 @@ File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 ) [3] [4
 
 ] (./LIVRO.toc
-Overfull \hbox (6.78427pt too wide) in paragraph at lines 4--4
-[]|\TU/SwiftNeueLTPro(0)/m/n/9 Modulação deleuzeana, modulação algorítmica e ma
-nipulação 
+Underfull \hbox (badness 5533) in paragraph at lines 17--17
+[]|\TU/LinuxLibertineO(0)/m/n/9 Aprendizado de máquina e modulação do comportam
+ento 
  []
 
 ) [5]
@@ -1640,249 +1586,245 @@ nipulação
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 8.
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
+Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
+Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 ) (./Introducao.tex [7] [8
 
 ]
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
+Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
+Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
  [9] [10]
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
 )
 (./Cap_1.tex [11] [12
 
 ]
 File: ./imgs/grafico1.png Graphic file (type bmp)
 <./imgs/grafico1.png>
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Bold Italic'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Bold Italic'.
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
+Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
+Unknown feature `protrusion=default' in font `Linux Libertine O Semibold Italic
+'.
+Unknown feature `expansion=default' in font `Linux Libertine O Semibold Italic'
+.
+Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
+Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
  [13] [14]
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
- [15] [16] [17] [18] [19]
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
- [20]
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+ [15] [16] [17] [18]
+Underfull \hbox (badness 1052) in paragraph at lines 208--220
+\TU/LinuxLibertineO(0)/m/n/10 pode produzir a mudança na sensibilidade do consu
+midor e
+ []
+
+Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
+Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
+[19] [20]
 File: ./imgs/grafico2.png Graphic file (type bmp)
 <./imgs/grafico2.png>
  [21]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 297.
- [22]
-[23] [24] [25] [26] [27] [28] [29]) (./CAP_2.tex [30]
+ [22] [23] [24] [25] [26] [27] [28]) (./CAP_2.tex [29] [30
+
+]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 1.
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
- [31
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
 
-] [32]
+[31] [32]
 Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[]\TU/SwiftNeueLTPro(0)/m/n/8 2. []Informações obtidas no relatório de 2016 da 
-Statista:
+[]\TU/LinuxLibertineO(0)/m/n/8 2. []Informações obtidas no relatório de 2016 da
+ Statista:
  []
 
-[33] [34] [35] [36] [37] [38]
+[33] [34] [35] [36] [37]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 237.
- [39] [40] [41] [42] [43] [44]
+ [38] [39] [40] [41] [42] [43]
 Underfull \hbox (badness 10000) in paragraph at lines 438--441
 
  []
 
-[45]) (./CAP_3.tex [46] [47
+) (./CAP_3.tex [44] [45] [46
 
-] [48] [49] [50] [51] [52] [53] [54] [55] [56]
-[57] [58] [59]
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
- [60] [61] [62] [63]
-Underfull \hbox (badness 1163) in paragraph at lines 505--507
-[]\TU/SwiftNeueLTPro(0)/m/sc/10 agarwal\TU/SwiftNeueLTPro(0)/m/n/10 , N. \TU/Sw
-iftNeueLTPro(0)/m/it/10 Quantifying Social Influence\TU/SwiftNeueLTPro(0)/m/n/1
-0 . Disponível em:
+] [47]
+Underfull \hbox (badness 2922) in paragraph at lines 31--47
+[]\TU/LinuxLibertineO(0)/m/n/10 Uma das maiores mudanças que a Sociedade em Red
+e
  []
 
-[64] [65]
-Underfull \hbox (badness 4467) in paragraph at lines 578--580
-[]\TU/SwiftNeueLTPro(0)/m/sc/10 jeong\TU/SwiftNeueLTPro(0)/m/n/10 , S. \TU/Swif
-tNeueLTPro(0)/m/it/10 Zuckerberg struggles to name a single Facebook
+[48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58]
+Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
+Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
+ [59] [60] [61]
+Underfull \hbox (badness 2556) in paragraph at lines 505--507
+[]\TU/LinuxLibertineO(0)/m/sc/10 agarwal\TU/LinuxLibertineO(0)/m/n/10 , N. \TU/
+LinuxLibertineO(0)/m/it/10 Quantifying Social Influence\TU/LinuxLibertineO(0)/m
+/n/10 . Disponível em:
+ []
+
+[62]
+Underfull \hbox (badness 2065) in paragraph at lines 513--516
+[]\TU/LinuxLibertineO(0)/m/sc/10 booth\TU/LinuxLibertineO(0)/m/n/10 , R. \TU/Li
+nuxLibertineO(0)/m/it/10 Facebook reveals news feed experiment to control
+ []
+
+[63]
+Overfull \hbox (13.0867pt too wide) in paragraph at lines 578--580
+\TU/LinuxLibertineO(0)/m/it/10 tor\TU/LinuxLibertineO(0)/m/n/10 . The Verge, 10
+ abr. 2018. Disponível em: <\TU/LinuxLibertineO(0)/m/it/10 https://bit.ly/2qmze
+Fm\TU/LinuxLibertineO(0)/m/n/10 >.
+ []
+
+[64]
+Underfull \hbox (badness 1286) in paragraph at lines 592--594
+\TU/LinuxLibertineO(0)/m/it/10 mental evidence of massive-scale emotional conta
+gion through
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 578--580
-\TU/SwiftNeueLTPro(0)/m/it/10 competitor\TU/SwiftNeueLTPro(0)/m/n/10 . The Verg
-e, 10 abr. 2018. Disponível em:
+Underfull \hbox (badness 1342) in paragraph at lines 592--594
+\TU/LinuxLibertineO(0)/m/it/10 social networks\TU/LinuxLibertineO(0)/m/n/10 . \
+TU/LinuxLibertineO(0)/m/sc/10 pnas\TU/LinuxLibertineO(0)/m/n/10 . vol. 111. 201
+4. Disponível em:
  []
 
-[66]
-Underfull \hbox (badness 2221) in paragraph at lines 607--610
-[]\TU/SwiftNeueLTPro(0)/m/sc/10 mahdawi\TU/SwiftNeueLTPro(0)/m/n/10 , A. \TU/Sw
-iftNeueLTPro(0)/m/it/10 Uber developing technology that would tell if
+
+Underfull \hbox (badness 2529) in paragraph at lines 607--610
+[]\TU/LinuxLibertineO(0)/m/sc/10 mahdawi\TU/LinuxLibertineO(0)/m/n/10 , A. \TU/
+LinuxLibertineO(0)/m/it/10 Uber developing technology that would tell if
  []
 
-[67]
-Underfull \hbox (badness 1655) in paragraph at lines 660--663
-[]\TU/SwiftNeueLTPro(0)/m/sc/10 zuboff\TU/SwiftNeueLTPro(0)/m/n/10 , Shoshana. 
-\TU/SwiftNeueLTPro(0)/m/it/10 Big other: surveillance capitalism and
+[65] [66]
+Underfull \hbox (badness 2744) in paragraph at lines 660--663
+[]\TU/LinuxLibertineO(0)/m/sc/10 zuboff\TU/LinuxLibertineO(0)/m/n/10 , Shoshana
+. \TU/LinuxLibertineO(0)/m/it/10 Big other: surveillance capitalism and
  []
 
-) (./Cap_4.tex [68]
-Underfull \hbox (badness 1803) in paragraph at lines 8--16
-[]\TU/SwiftNeueLTPro(0)/m/n/10 As Tecnologias da Informação e Comunicação (\TU/
-SwiftNeueLTPro(0)/m/sc/10 tic\TU/SwiftNeueLTPro(0)/m/n/10 s)
+
+Underfull \hbox (badness 1783) in paragraph at lines 660--663
+\TU/LinuxLibertineO(0)/m/it/10 the prospects of an information civilization. \T
+U/LinuxLibertineO(0)/m/n/10 London: Jour-
  []
 
-[69
+) (./Cap_4.tex [67] [68
 
-] [70] [71]
-Underfull \hbox (badness 4634) in paragraph at lines 98--106
-\TU/SwiftNeueLTPro(0)/m/n/10 vimento denominado Representação do Conhecimento
+] [69] [70] [71] [72] [73]
+Underfull \hbox (badness 1122) in paragraph at lines 160--169
+[]\TU/LinuxLibertineO(0)/m/n/10 O \TU/LinuxLibertineO(0)/m/it/10 Machine Learni
+n\TU/LinuxLibertineO(0)/m/n/10 g sem dúvida é um poderoso método
  []
 
-[72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86]
-[87] [88] [89] [90] [91]
+[74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88]
+[89]
 File: ./imgs/grafico3.png Graphic file (type bmp)
 <./imgs/grafico3.png>
 
-Overfull \hbox (2.41603pt too wide) in paragraph at lines 682--682
-[]\TU/SwiftNeueLTPro(0)/m/n/8 5. [][]| 
+Overfull \hbox (2.71733pt too wide) in paragraph at lines 682--682
+[]\TU/LinuxLibertineO(0)/m/n/8 5. [][]| 
  []
 
-[92] [93] [94] [95] [96] [97] [98]
-Underfull \hbox (badness 2150) in paragraph at lines 900--903
-[]\TU/SwiftNeueLTPro(0)/m/sc/10 cadwalladr\TU/SwiftNeueLTPro(0)/m/n/10 , Carole
- e \TU/SwiftNeueLTPro(0)/m/sc/10 graham-harrison\TU/SwiftNeueLTPro(0)/m/n/10 , 
-Emma. \TU/SwiftNeueLTPro(0)/m/it/10 Re-
+[90] [91] [92] [93] [94] [95]
+Underfull \hbox (badness 2334) in paragraph at lines 861--866
+\TU/LinuxLibertineO(0)/m/n/10 esse maquinismo abre possibilidades e potencialid
+ades para
  []
 
-
-Underfull \hbox (badness 1917) in paragraph at lines 900--903
-\TU/SwiftNeueLTPro(0)/m/it/10 vealed: 50 million Facebook profiles harvested fo
-r Cambridge
- []
-
-
-Underfull \hbox (badness 3118) in paragraph at lines 900--903
-\TU/SwiftNeueLTPro(0)/m/it/10 Analytica in major data breach\TU/SwiftNeueLTPro(
-0)/m/n/10 . 2018. Disponível em:
- []
-
-[99]
-Underfull \hbox (badness 1194) in paragraph at lines 920--922
-\TU/SwiftNeueLTPro(0)/m/it/10 gramação em inteligência artificial\TU/SwiftNeueL
-TPro(0)/m/n/10 . 2014. Disponível em:
- []
-
-[100]
-Underfull \hbox (badness 1406) in paragraph at lines 946--948
-\TU/SwiftNeueLTPro(0)/m/it/10 ted the Facebook Data of Millions. \TU/SwiftNeueL
-TPro(0)/m/n/10 2018. Disponível em:
+[96] [97]
+Underfull \hbox (badness 1005) in paragraph at lines 920--922
+[]\TU/LinuxLibertineO(0)/m/sc/10 haas\TU/LinuxLibertineO(0)/m/n/10 , Guilherme.
+ \TU/LinuxLibertineO(0)/m/it/10 Google compra DeepMind, startup de pro-
  []
 
 
-Underfull \hbox (badness 2012) in paragraph at lines 954--958
-\TU/SwiftNeueLTPro(0)/m/n/10 matical Biophysics, Volume 5. 1943. Disponível em:
-
+Underfull \hbox (badness 2343) in paragraph at lines 920--922
+\TU/LinuxLibertineO(0)/m/it/10 gramação em inteligência artificial\TU/LinuxLibe
+rtineO(0)/m/n/10 . 2014. Disponível em:
  []
 
-[101]
-Underfull \hbox (badness 1629) in paragraph at lines 979--984
-[]\TU/SwiftNeueLTPro(0)/m/sc/10 vinge\TU/SwiftNeueLTPro(0)/m/n/10 , Vernor. \TU
-/SwiftNeueLTPro(0)/m/it/10 The coming technological singularity: How
- []
-
-
-Underfull \hbox (badness 2293) in paragraph at lines 979--984
-\TU/SwiftNeueLTPro(0)/m/n/10 and Engineering in the Era of Cyberspace, v. 10129
-,
+[98]
+Underfull \hbox (badness 2229) in paragraph at lines 946--948
+\TU/LinuxLibertineO(0)/m/it/10 ted the Facebook Data of Millions. \TU/LinuxLibe
+rtineO(0)/m/n/10 2018. Disponível em:
  []
 
 
-Underfull \hbox (badness 3769) in paragraph at lines 979--984
-\TU/SwiftNeueLTPro(0)/m/n/10 o\TU/SwiftNeueLTPro(0)/m/sc/10 nasa \TU/SwiftNeueL
-TPro(0)/m/n/10 Conference Publication, p. 11—22, Cleveland,
+Underfull \hbox (badness 3407) in paragraph at lines 954--958
+[]\TU/LinuxLibertineO(0)/m/sc/10 mcculloch\TU/LinuxLibertineO(0)/m/n/10 , Warre
+n S. e \TU/LinuxLibertineO(0)/m/sc/10 pitts\TU/LinuxLibertineO(0)/m/n/10 , Walt
+er. \TU/LinuxLibertineO(0)/m/it/10 A logical calcu-
  []
 
 
-Underfull \hbox (badness 3623) in paragraph at lines 985--989
-[]\TU/SwiftNeueLTPro(0)/m/sc/10 youyou\TU/SwiftNeueLTPro(0)/m/n/10 , Wu, \TU/Sw
-iftNeueLTPro(0)/m/sc/10 kosinskib\TU/SwiftNeueLTPro(0)/m/n/10 , Michal e \TU/Sw
-iftNeueLTPro(0)/m/sc/10 stillwella\TU/SwiftNeueLTPro(0)/m/n/10 , David.
+Underfull \hbox (badness 1975) in paragraph at lines 954--958
+\TU/LinuxLibertineO(0)/m/it/10 lus of the ideas immanent in nervous activity\TU
+/LinuxLibertineO(0)/m/n/10 . Bulletin of
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 985--989
-\TU/SwiftNeueLTPro(0)/m/it/10 Computer-based personality judgments are more acc
-urate than
+Underfull \hbox (badness 1142) in paragraph at lines 954--958
+\TU/LinuxLibertineO(0)/m/n/10 Mathematical Biophysics, Volume 5. 1943. Disponív
+el em:
  []
 
-) (./CAP_5.tex [102] [103
 
-] [104] [105] [106] [107] [108] [109] [110] [111]
-[112] [113] [114] [115] [116] [117]
-Underfull \hbox (badness 1939) in paragraph at lines 448--451
-[]\TU/SwiftNeueLTPro(0)/m/sc/10 cormen\TU/SwiftNeueLTPro(0)/m/n/10 , T. H., \TU
-/SwiftNeueLTPro(0)/m/sc/10 leiserson\TU/SwiftNeueLTPro(0)/m/n/10 , C. E., \TU/S
-wiftNeueLTPro(0)/m/sc/10 rivest\TU/SwiftNeueLTPro(0)/m/n/10 , R. L., \TU/SwiftN
-eueLTPro(0)/m/sc/10 stein\TU/SwiftNeueLTPro(0)/m/n/10 ,
+Underfull \hbox (badness 1158) in paragraph at lines 976--978
+\TU/LinuxLibertineO(0)/m/n/10 v. 59, no. 236, p. 433-460, out. 1950. Disponível
+ em:
  []
 
-[118] [119] [120]) (./CAP_6.tex [121] [122
+[99]) (./CAP_5.tex [100] [101
 
-] [123] [124] [125] [126] [127]
-Underfull \hbox (badness 7981) in paragraph at lines 173--173
-[]\TU/SwiftNeueLTPro(0)/m/n/8 3. []Citação original: “\TU/SwiftNeueLTPro(0)/m/i
-t/8 La capacidad de constituir redes y de progra-
+] [102] [103] [104] [105]
+Underfull \hbox (badness 1286) in paragraph at lines 159--173
+[]\TU/LinuxLibertineO(0)/m/n/10 Para Deleuze, a submissão aos mecanismos discip
+linares,
  []
 
+[106] [107] [108] [109] [110] [111] [112] [113] [114]
+Overfull \hbox (22.51341pt too wide) in paragraph at lines 448--451
+\TU/LinuxLibertineO(0)/m/it/10 tion to Algorithms\TU/LinuxLibertineO(0)/m/n/10 
+, 3rd edition, \TU/LinuxLibertineO(0)/m/sc/10 mit \TU/LinuxLibertineO(0)/m/n/10
+ Press, 2009 (<\TU/LinuxLibertineO(0)/m/it/10 https://bit.ly/2UJxjZL\TU/LinuxLi
+bertineO(0)/m/n/10 >). 
+ []
+
+[115] [116] [117]) (./CAP_6.tex [118] [119
+
+] [120] [121] [122] [123]
 File: ./imgs/grafico4.jpg Graphic file (type bmp)
 <./imgs/grafico4.jpg>
-[128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139]
-[140] [141] [142] [143]
+ [124]
+[125] [126] [127] [128]
+Underfull \hbox (badness 1337) in paragraph at lines 328--335
+[]\TU/LinuxLibertineO(0)/m/n/10 De acordo com as proposições já apontadas neste
+ texto,
+ []
+
+[129] [130] [131] [132] [133] [134] [135] [136] [137] [138]
 File: ./imgs/grafico5.png Graphic file (type bmp)
 <./imgs/grafico5.png>
-
-Underfull \hbox (badness 4673) in paragraph at lines 675--678
-[]\TU/SwiftNeueLTPro(0)/m/n/10 Dentre os comentários apresentados, muitos deles
-
- []
-
 File: ./imgs/grafico6.png Graphic file (type bmp)
 <./imgs/grafico6.png>
-[144] [145] [146] [147]
-Underfull \hbox (badness 1270) in paragraph at lines 739--747
-[]\TU/SwiftNeueLTPro(0)/m/n/10 As problematizações apresentadas neste trabalho 
-de-
+ [139] [140]
+[141] [142] [143] [144]
+Underfull \hbox (badness 3088) in paragraph at lines 853--855
+[]\TU/LinuxLibertineO(0)/m/sc/10 wikimedia\TU/LinuxLibertineO(0)/m/n/10 , Commo
+ns. \TU/LinuxLibertineO(0)/m/it/10 Personas en red. \TU/LinuxLibertineO(0)/m/n/
+10 Disponível em:
  []
 
-[148] [149]
-Overfull \hbox (3.85837pt too wide) in paragraph at lines 802--804
-\TU/SwiftNeueLTPro(0)/m/it/10 versidade Federal do \TU/SwiftNeueLTPro(0)/m/itsc
-/10 abc\TU/SwiftNeueLTPro(0)/m/n/10 . Disponível em: <\TU/SwiftNeueLTPro(0)/m/i
-t/10 https://bit.ly/29SElUP\TU/SwiftNeueLTPro(0)/m/n/10 >.
- []
-
-
-Overfull \hbox (5.87305pt too wide) in paragraph at lines 829--831
-[]\TU/SwiftNeueLTPro(0)/m/sc/10 pais, el\TU/SwiftNeueLTPro(0)/m/n/10 . \TU/Swif
-tNeueLTPro(0)/m/it/10 Caso Cambridge Analytica. \TU/SwiftNeueLTPro(0)/m/n/10 Di
-sponível em: <\TU/SwiftNeueLTPro(0)/m/it/10 https://bit.ly 
- []
-
-[150])) [151] 
+)) [145] 
 AED: lastpage setting LastPage
 \openout2 = `PUBLICIDADE.aux'.
 
@@ -1891,33 +1833,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
  []
 
-[152
+[146
 
 
 
 
 ]
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
- [153] [154] [155] [156] [157]) [158
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+ [147] [148] [149] [150] [151]) [152
 
 ]
 \tf@toc=\write5
 \openout5 = `LIVRO.toc'.
 
  (./LIVRO.aux (./INPUTS.aux)
-(./PUBLICIDADE.aux))
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
- ) 
+(./PUBLICIDADE.aux)) ) 
 Here is how much of TeX's memory you used:
- 26474 strings out of 493010
- 486777 string characters out of 6140134
- 725339 words of memory out of 5000000
- 29922 multiletter control sequences out of 15000+600000
- 543116 words of font info for 112 fonts, out of 8000000 for 9000
+ 26273 strings out of 492998
+ 481601 string characters out of 6139960
+ 703184 words of memory out of 5000000
+ 29739 multiletter control sequences out of 15000+600000
+ 543931 words of font info for 107 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
- 49i,12n,89p,10388b,533s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,12n,89p,10345b,533s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (158 pages, 2622560 bytes).
+Output written on LIVRO.xdv (152 pages, 2602788 bytes).

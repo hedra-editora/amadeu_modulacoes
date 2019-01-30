@@ -5,27 +5,27 @@
 \contentsline {section}{Sociedade Disciplinar e Sociedade do Controle}{13}
 \contentsline {section}{Agenda Setting e Economia da Atenção}{16}
 \contentsline {section}{Modulação deleuzeana, Modulação Algorítmica e~Manipulação}{21}
-\contentsline {section}{Conclusão}{28}
-\contentsline {section}{Referências}{29}
+\contentsline {section}{Conclusão}{27}
+\contentsline {section}{Referências}{27}
 \contentsline {chapter}{A noção de modulação e os sistemas algorítmicos\FN@sf@gobble@opt {Este texto é fruto das reflexões originadas na pesquisa `A Regulação Algorítmica do Setor Público: mapeamento teórico-programático', processo 2017/14412-0, apoiada pela Fundação de Amparo à Pesquisa do Estado de São Paulo (\textsc {\MakeTextLowercase {FAPESP}}). As opiniões, hipóteses e conclusões ou recomendações expressas neste material são de responsabilidade do(s) autor(es) e não necessariamente refletem a visão da \textsc {\MakeTextLowercase {FAPESP}}.}}{31}
 \contentsline {section}{As plataformas e a modulação do olhar e do afeto}{35}
-\contentsline {section}{Neoliberalismo e modulação}{43}
-\contentsline {section}{Referências}{45}
-\contentsline {section}{PATENTES CITADAS}{46}
+\contentsline {section}{Neoliberalismo e modulação}{41}
+\contentsline {section}{Referências}{43}
+\contentsline {section}{PATENTES CITADAS}{44}
 \contentsline {chapter}{A modulação de comportamento nas plataformas de mídias sociais}{47}
-\contentsline {section}{Referências}{64}
+\contentsline {section}{Referências}{62}
 \contentsline {chapter}{Aprendizado de máquina e modulação do comportamento humano}{69}
 \contentsline {section}{Inteligência Artificial e sua evolução}{71}
-\contentsline {section}{Aprendizado de máquina e modulação do~comportamento~humano}{77}
-\contentsline {section}{Considerações Finais}{98}
-\contentsline {section}{Referências}{99}
-\contentsline {chapter}{Da biopolítica à modulação: psicologia social e algoritmos como agentes da assimilação neoliberal}{103}
-\contentsline {section}{Referências}{118}
-\contentsline {chapter}{Existe resistência nas sociedades de controle?}{123}
-\contentsline {section}{Introdução}{123}
-\contentsline {section}{Sociedade contemporânea: informacional~e~de~controle}{125}
-\contentsline {section}{Resistência, o pressuposto do poder}{134}
-\contentsline {section}{Resistência na sociedade contemporânea}{138}
-\contentsline {section}{Considerações finais}{147}
-\contentsline {section}{Referências}{148}
+\contentsline {section}{Aprendizado de máquina e modulação do~comportamento~humano}{76}
+\contentsline {section}{Considerações Finais}{95}
+\contentsline {section}{Referências}{97}
+\contentsline {chapter}{Da biopolítica à modulação: psicologia social e algoritmos como agentes da assimilação neoliberal}{101}
+\contentsline {section}{Referências}{115}
+\contentsline {chapter}{Existe resistência nas sociedades de controle?}{119}
+\contentsline {section}{Introdução}{119}
+\contentsline {section}{Sociedade contemporânea: informacional~e~de~controle}{121}
+\contentsline {section}{Resistência, o pressuposto do poder}{129}
+\contentsline {section}{Resistência na sociedade contemporânea}{133}
+\contentsline {section}{Considerações finais}{141}
+\contentsline {section}{Referências}{142}
 \contentsfinish 
