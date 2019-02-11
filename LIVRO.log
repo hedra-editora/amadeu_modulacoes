@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  7 FEB 2019 17:00
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  11 FEB 2019 13:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1664,23 +1664,24 @@ Unknown feature `protrusion=default' in font `Swift Neue LT Pro Bold Italic'.
 Unknown feature `expansion=default' in font `Swift Neue LT Pro Bold Italic'.
 Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
 Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
+ [13]
 Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
 Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
 Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
 Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
- [13] [14]
+ [14]
 Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
 Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
  [15] [16] [17] [18] [19]
 Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
 Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
- [20]
+ [20] [21]
 File: ./imgs/grafico2.png Graphic file (type bmp)
 <./imgs/grafico2.png>
- [21]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 307.
  [22]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 309.
+
 [23] [24] [25] [26] [27] [28] [29]) (./CAP_2.tex [30]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 1.
@@ -1926,4 +1927,4 @@ Here is how much of TeX's memory you used:
  1372 hyphenation exceptions out of 8191
  49i,12n,89p,10388b,533s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (160 pages, 2632140 bytes).
+Output written on LIVRO.xdv (160 pages, 2633772 bytes).
