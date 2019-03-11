@@ -267,6 +267,7 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /home/editorial/texmf/tex/frontconselho.tex
 INPUT /home/editorial/texmf/tex/frontconselho.tex
+INPUT ./imgs/creativecommons.png
 INPUT /usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 INPUT /usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
@@ -290,14 +291,14 @@ INPUT Introducao.tex
 INPUT Introducao.tex
 INPUT Cap_1.tex
 INPUT Cap_1.tex
-INPUT ./imgs/grafico1.png
-INPUT ./imgs/grafico2.png
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib7.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm
+INPUT ./imgs/grafico1.png
+INPUT ./imgs/grafico2.png
 INPUT CAP_2.tex
 INPUT CAP_2.tex
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
