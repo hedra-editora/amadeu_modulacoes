@@ -3,9 +3,9 @@
 \contentsline {chapter}{Introdução, \relax \fontsize {7}{8}\selectfont {por Joyce Souza, Rodolfo Avelino e Sérgio Amadeu da Silveira}}{9}
 \contentsline {chapter}{Modulação deleuzeana, modulação algorítmica e~manipulação midiática, \relax \fontsize {7}{8}\selectfont {por João Francisco Cassino}}{13}
 \contentsline {section}{Sociedade Disciplinar e Sociedade do Controle}{14}
-\contentsline {section}{Agenda Setting e Economia da Atenção}{16}
-\contentsline {section}{Modulação deleuzeana, Modulação Algorítmica e~Manipulação}{21}
-\contentsline {section}{Conclusão}{27}
+\contentsline {section}{Agenda Setting e Economia da Atenção}{17}
+\contentsline {section}{Modulação deleuzeana, Modulação Algorítmica e~Manipulação}{22}
+\contentsline {section}{Conclusão}{28}
 \contentsline {chapter}{A noção de modulação e os sistemas algorítmicos,\\ \relax \fontsize {7}{8}\selectfont {por Sérgio Amadeu da Silveira}}{31}
 \contentsline {section}{As plataformas e a modulação do olhar e do afeto}{35}
 \contentsline {section}{Neoliberalismo e modulação}{42}
@@ -15,33 +15,11 @@
 \contentsline {section}{Inteligência Artificial e sua evolução}{71}
 \contentsline {section}{Aprendizado de máquina e modulação do~comportamento~humano}{77}
 \contentsline {section}{Considerações Finais}{97}
-\contentsline {chapter}{Da biopolítica à modulação: psicologia social e algoritmos como agentes da assimilação neoliberal, \relax \fontsize {7}{8}\selectfont {por Cínthia Monteiro}}{101}
-\contentsline {chapter}{Existe resistência nas sociedades de controle?,\\ \relax \fontsize {7}{8}\selectfont {por Mariella Batarra Mian}}{119}
-\contentsline {section}{Introdução}{119}
-\contentsline {section}{Sociedade contemporânea: informacional~e~de~controle}{121}
-\contentsline {section}{Resistência, o pressuposto do poder}{129}
-\contentsline {section}{Resistência na sociedade contemporânea}{133}
-\contentsline {section}{Considerações finais}{140}
-\contentsline {chapter}{Introdução, \relax \fontsize {7}{8}\selectfont {por Joyce Souza, Rodolfo Avelino e Sérgio Amadeu da Silveira}}{149}
-\contentsline {chapter}{Modulação deleuzeana, modulação algorítmica e~manipulação midiática, \relax \fontsize {7}{8}\selectfont {por João Francisco Cassino}}{153}
-\contentsline {section}{Sociedade Disciplinar e Sociedade do Controle}{154}
-\contentsline {section}{Agenda Setting e Economia da Atenção}{156}
-\contentsline {section}{Modulação deleuzeana, Modulação Algorítmica e~Manipulação}{161}
-\contentsline {section}{Conclusão}{167}
-\contentsline {chapter}{A noção de modulação e os sistemas algorítmicos,\\ \relax \fontsize {7}{8}\selectfont {por Sérgio Amadeu da Silveira}}{171}
-\contentsline {section}{As plataformas e a modulação do olhar e do afeto}{175}
-\contentsline {section}{Neoliberalismo e modulação}{182}
-\contentsline {section}{PATENTES CITADAS}{185}
-\contentsline {chapter}{A modulação de comportamento nas plataformas de mídias sociais, \relax \fontsize {7}{8}\selectfont {por Débora Machado}}{187}
-\contentsline {chapter}{Aprendizado de máquina e modulação do comportamento humano, \relax \fontsize {7}{8}\selectfont {por Carla Oliveira}}{209}
-\contentsline {section}{Inteligência Artificial e sua evolução}{211}
-\contentsline {section}{Aprendizado de máquina e modulação do~comportamento~humano}{217}
-\contentsline {section}{Considerações Finais}{237}
-\contentsline {chapter}{Da biopolítica à modulação: psicologia social e algoritmos como agentes da assimilação neoliberal, \relax \fontsize {7}{8}\selectfont {por Cínthia Monteiro}}{241}
-\contentsline {chapter}{Existe resistência nas sociedades de controle?,\\ \relax \fontsize {7}{8}\selectfont {por Mariella Batarra Mian}}{259}
-\contentsline {section}{Introdução}{259}
-\contentsline {section}{Sociedade contemporânea: informacional~e~de~controle}{261}
-\contentsline {section}{Resistência, o pressuposto do poder}{269}
-\contentsline {section}{Resistência na sociedade contemporânea}{273}
-\contentsline {section}{Considerações finais}{280}
+\contentsline {chapter}{Da biopolítica à modulação, \relax \fontsize {7}{8}\selectfont {por Cínthia Monteiro}}{103}
+\contentsline {chapter}{Existe resistência nas sociedades de controle?,\\ \relax \fontsize {7}{8}\selectfont {por Mariella Batarra Mian}}{121}
+\contentsline {section}{Introdução}{121}
+\contentsline {section}{Sociedade contemporânea: informacional~e~de~controle}{123}
+\contentsline {section}{Resistência, o pressuposto do poder}{131}
+\contentsline {section}{Resistência na sociedade contemporânea}{135}
+\contentsline {section}{Considerações finais}{144}
 \contentsfinish 
